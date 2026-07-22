@@ -16,8 +16,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--C4:START-->
 
-**Anyone with a GitHub account can play — it's one shared board.** 🟡 **Yellow moves next.**
-Click a column number to drop a disc (it opens a pre-filled issue — just press *Create*):
+🟡 **yellow moves next** — click a column number and press *create* to drop a disc.
 
 <div align="center">
 

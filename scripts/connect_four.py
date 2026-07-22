@@ -243,8 +243,7 @@ def readme_section(state):
         last_md = "This is the very first game — make history."
 
     return f"""
-**Anyone with a GitHub account can play — it's one shared board.** {EMOJI[turn]} **{NAME[turn].capitalize()} moves next.**
-Click a column number to drop a disc (it opens a pre-filled issue — just press *Create*):
+{EMOJI[turn]} **{NAME[turn]} moves next** — click a column number and press *create* to drop a disc.
 
 <div align="center">
 

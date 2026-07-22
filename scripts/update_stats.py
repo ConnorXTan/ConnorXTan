@@ -15,7 +15,6 @@ import re
 import sys
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
 
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md")
 
@@ -119,11 +118,7 @@ def build_block(wpm, track):
         )
     if not bits:
         return "⚙️ <sub>live stats warming up…</sub>"
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    return (
-        " &nbsp;·&nbsp; ".join(bits)
-        + f"\n\n<sub>live via github actions · updated {stamp}</sub>"
-    )
+    return " &nbsp;·&nbsp; ".join(bits)
 
 
 def main():

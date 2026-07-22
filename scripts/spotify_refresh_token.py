@@ -33,6 +33,7 @@ def main():
         {"client_id": cid, "response_type": "code", "redirect_uri": REDIRECT, "scope": SCOPES}
     )
     print("Opening browser for Spotify authorization…")
+    print(f"(if nothing opens, visit: {auth_url})")
     webbrowser.open(auth_url)
 
     code_holder = {}
@@ -42,9 +43,9 @@ def main():
             qs = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
             code_holder["code"] = qs.get("code", [None])[0]
             self.send_response(200)
-            self.send_header("Content-Type", "text/html")
+            self.send_header("Content-Type", "text/html; charset=utf-8")
             self.end_headers()
-            self.wfile.write(b"<h2>Done — you can close this tab.</h2>")
+            self.wfile.write("<h2>Done — you can close this tab.</h2>".encode("utf-8"))
 
         def log_message(self, *args):
             pass

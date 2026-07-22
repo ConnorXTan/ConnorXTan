@@ -25,7 +25,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--C4:START-->
 
-🟡 **yellow moves next** — click a column number and press *create* to drop a disc and +1 contribution
+🟡 **yellow moves next** — click a column number and press *create* to drop a disc.
 
 <div align="center">
 

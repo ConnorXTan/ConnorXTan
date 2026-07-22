@@ -49,19 +49,29 @@
       [
         null,
         null,
-        null,
+        "Y",
         "R",
-        null,
+        "R",
         null,
         null
       ]
     ],
     "turn": "Y",
     "last_player": "ConnorXTan",
-    "last_col": 3,
+    "last_col": 4,
     "moves": [
       {
         "col": 4,
+        "color": "R",
+        "user": "ConnorXTan"
+      },
+      {
+        "col": 3,
+        "color": "Y",
+        "user": "ConnorXTan"
+      },
+      {
+        "col": 5,
         "color": "R",
         "user": "ConnorXTan"
       }
@@ -74,5 +84,6 @@
     "yellow_wins": 0,
     "draws": 0
   },
-  "last_result": null
+  "last_result": null,
+  "seq": 2
 }

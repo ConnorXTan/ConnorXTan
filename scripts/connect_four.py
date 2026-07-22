@@ -125,7 +125,6 @@ def apply_move(state, col, user):
         )
         finished = dict(game)
         state["game"] = new_game()
-        state["game"]["moves"] = [{"col": col, "color": winner, "user": user, "won": True}]
         return {"ok": True, "message": msg, "finished_board": finished}
     if board_full(game["board"]):
         state["stats"]["games"] += 1
@@ -227,8 +226,7 @@ def readme_section(state):
 
     recent = []
     for m in reversed(game["moves"][-5:]):
-        won = " — **winning move!** 🏆" if m.get("won") else ""
-        recent.append(f"- {EMOJI[m['color']]} [@{m['user']}](https://github.com/{m['user']}) → column {m['col']}{won}")
+        recent.append(f"- {EMOJI[m['color']]} [@{m['user']}](https://github.com/{m['user']}) → column {m['col']}")
     recent_md = "\n".join(recent) if recent else "*No moves yet this game — start it off!*"
 
     sub_bits = [

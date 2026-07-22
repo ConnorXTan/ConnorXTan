@@ -18,54 +18,59 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      ISSUE: ${{ github.event.issue.number }}
-      PLAYER: ${{ github.event.issue.user.login }}
+      REPO: ${{ github.repository }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
 
-      - name: Acknowledge
-        run: gh api "repos/${{ github.repository }}/issues/$ISSUE/reactions" -f content=eyes --silent || true
-
-      - name: Apply move
-        id: move
+      # Process every open move issue (oldest first), not just the one that
+      # triggered this run: GitHub keeps only one pending run per concurrency
+      # group and cancels the rest, so a burst of moves would otherwise leave
+      # orphaned issues. Any surviving run sweeps them all up.
+      - name: Process open moves
+        id: moves
         run: |
-          COL=$(echo "${{ github.event.issue.title }}" | cut -d'|' -f3 | tr -cd '0-9')
-          if [ -z "$COL" ]; then
-            echo "message=I couldn't read a column number from that title — use the links on the board!" >> "$GITHUB_OUTPUT"
-            echo "ok=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          set +e
-          RESULT=$(python3 scripts/connect_four.py move --col "$COL" --user "$PLAYER")
-          STATUS=$?
-          set -e
-          echo "result: $RESULT (exit $STATUS)"
-          MSG=$(echo "$RESULT" | python3 -c "import json,sys; print(json.load(sys.stdin)['message'])")
-          echo "message=$MSG" >> "$GITHUB_OUTPUT"
-          if [ "$STATUS" -eq 0 ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "ok=false" >> "$GITHUB_OUTPUT"; fi
-          echo "col=$COL" >> "$GITHUB_OUTPUT"
+          gh issue list --repo "$REPO" --state open --limit 30 \
+            --json number,title,author \
+            --jq 'sort_by(.number) | .[] | select(.title | startswith("c4|drop|")) | "\(.number)\t\(.title)\t\(.author.login)"' > /tmp/moves.tsv
+          echo "found $(wc -l < /tmp/moves.tsv | tr -d ' ') open move(s)"
+          CHANGED=0
+          : > /tmp/moved.log
+          while IFS=$'\t' read -r NUM TITLE AUTHOR; do
+            gh api "repos/$REPO/issues/$NUM/reactions" -f content=eyes --silent || true
+            COL=$(echo "$TITLE" | cut -d'|' -f3 | tr -cd '0-9')
+            if [ -z "$COL" ]; then
+              MSG="I couldn't read a column number from that title — use the links on the board!"
+            else
+              set +e
+              RESULT=$(python3 scripts/connect_four.py move --col "$COL" --user "$AUTHOR")
+              STATUS=$?
+              set -e
+              MSG=$(echo "$RESULT" | python3 -c "import json,sys; print(json.load(sys.stdin)['message'])" 2>/dev/null || echo "Something went wrong processing that move — sorry! Try again?")
+              if [ "$STATUS" -eq 0 ]; then
+                CHANGED=1
+                echo "@$AUTHOR dropped in column $COL" >> /tmp/moved.log
+                MSG="$MSG"$'\n\n'"[⬅️ Back to the board](https://github.com/$REPO#-connect-four)"
+              fi
+            fi
+            gh issue comment "$NUM" --repo "$REPO" --body "$MSG"
+            gh issue close "$NUM" --repo "$REPO"
+          done < /tmp/moves.tsv
+          SUMMARY=$(head -1 /tmp/moved.log)
+          EXTRA=$(($(wc -l < /tmp/moved.log) - 1))
+          [ "$EXTRA" -gt 0 ] && SUMMARY="$SUMMARY (+$EXTRA more)"
+          echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
+          echo "summary=${SUMMARY:-no valid moves}" >> "$GITHUB_OUTPUT"
 
       - name: Commit board
-        if: steps.move.outputs.ok == 'true'
+        if: steps.moves.outputs.changed == '1'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md assets games
-          git commit -m "🎮 @$PLAYER drops in column ${{ steps.move.outputs.col }}"
+          git commit -m "🎮 ${{ steps.moves.outputs.summary }}"
           for i in 1 2 3; do
             git pull --rebase origin main && git push origin main && break
             sleep 3
           done
-
-      - name: Reply and close
-        if: always()
-        run: |
-          MSG="${{ steps.move.outputs.message }}"
-          [ -z "$MSG" ] && MSG="Something went wrong processing that move — sorry! Try again?"
-          if [ "${{ steps.move.outputs.ok }}" = "true" ]; then
-            MSG="$MSG"$'\n\n'"[⬅️ Back to the board](https://github.com/${{ github.repository }}#-connect-four)"
-          fi
-          gh issue comment "$ISSUE" --repo "${{ github.repository }}" --body "$MSG"
-          gh issue close "$ISSUE" --repo "${{ github.repository }}"

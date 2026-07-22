@@ -21,7 +21,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 </div>
 
-## 🧰 what i work with
+## 🧰 skills
 
 <div align="center">
 

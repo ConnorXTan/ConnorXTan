@@ -214,9 +214,9 @@ def readme_section(state):
     for c in range(COLS):
         n = c + 1
         if drop_row(game["board"], c) is not None:
-            strip.append(f"[![{n}](assets/num{n}.svg)]({issue_url(n)})")
+            strip.append(f"[![{n}](assets/num{n}.svg?s=2)]({issue_url(n)})")
         else:
-            strip.append(f"![{n}](assets/num{n}-dim.svg)")
+            strip.append(f"![{n}](assets/num{n}-dim.svg?s=2)")
     link_row = "".join(strip)
 
     recent = []
@@ -287,12 +287,13 @@ def render_number_strip():
     text_x = [PAD + CELL // 2] + [CELL // 2] * 6
     for i in range(COLS):
         w, x = widths[i], text_x[i]
-        for suffix, opacity in (("", "1"), ("-dim", "0.3")):
+        for suffix, pill, opacity in (("", "#2563eb", "1"), ("-dim", "#6e7781", "0.45")):
             svg = (
-                f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="30" viewBox="0 0 {w} 30">'
-                f'<text x="{x}" y="21" text-anchor="middle" '
+                f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="34" viewBox="0 0 {w} 34">'
+                f'<rect x="{x - 21}" y="2" width="42" height="30" rx="8" fill="{pill}" opacity="{opacity}"/>'
+                f'<text x="{x}" y="23" text-anchor="middle" '
                 f'font-family="ui-monospace, SFMono-Regular, Menlo, monospace" '
-                f'font-size="17" font-weight="bold" fill="#6e7781" opacity="{opacity}">{i + 1}</text></svg>'
+                f'font-size="17" font-weight="bold" fill="#ffffff">{i + 1}</text></svg>'
             )
             with open(os.path.join(ASSETS_DIR, f"num{i + 1}{suffix}.svg"), "w") as f:
                 f.write(svg + "\n")

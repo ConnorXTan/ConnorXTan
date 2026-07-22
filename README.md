@@ -16,7 +16,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/contribs-dark.svg">
-<img alt="contribution graph" src="assets/contribs-light.svg" width="740">
+<img alt="contribution graph" src="assets/contribs-light.svg">
 </picture>
 
 </div>

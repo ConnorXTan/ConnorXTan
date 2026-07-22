@@ -13,6 +13,7 @@ import os
 import subprocess
 import sys
 import urllib.request
+from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ASSETS_DIR = os.path.join(ROOT, "assets")
@@ -23,11 +24,11 @@ LEVELS = {"NONE": 0, "FIRST_QUARTILE": 1, "SECOND_QUARTILE": 2,
 
 THEMES = {
     "light": {
-        "ramp": ["#eef2f7", "#bfdbfe", "#60a5fa", "#2563eb", "#1e3a8a"],
+        "ramp": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
         "text": "#57606a",
     },
     "dark": {
-        "ramp": ["#161b22", "#1e3a8a", "#2563eb", "#60a5fa", "#93c5fd"],
+        "ramp": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"],
         "text": "#8b949e",
     },
 }
@@ -45,10 +46,11 @@ def fetch_calendar():
     if not token:
         token = subprocess.run(["gh", "auth", "token"], capture_output=True,
                                text=True, check=True).stdout.strip()
+    year = datetime.now(timezone.utc).year
     query = """
-    query($login: String!) {
+    query($login: String!, $from: DateTime!, $to: DateTime!) {
       user(login: $login) {
-        contributionsCollection {
+        contributionsCollection(from: $from, to: $to) {
           contributionCalendar {
             totalContributions
             weeks { contributionDays { date contributionCount contributionLevel weekday } }
@@ -60,13 +62,19 @@ def fetch_calendar():
         "https://api.github.com/graphql",
         headers={"Authorization": f"Bearer {token}",
                  "Content-Type": "application/json"},
-        data=json.dumps({"query": query, "variables": {"login": LOGIN}}).encode(),
+        data=json.dumps({"query": query, "variables": {
+            "login": LOGIN,
+            "from": f"{year}-01-01T00:00:00Z",
+            "to": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        }}).encode(),
     )
     with urllib.request.urlopen(req, timeout=20) as resp:
         out = json.loads(resp.read().decode())
     if out.get("errors"):
         raise RuntimeError(out["errors"])
-    return out["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+    cal = out["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+    cal["year"] = year
+    return cal
 
 
 def render(cal, theme):
@@ -146,7 +154,7 @@ def render(cal, theme):
     base_y = TOP + 7 * STEP - GAP + 17
     parts.append(
         f'<text class="t" x="{LEFT}" y="{base_y}">'
-        f'{cal["totalContributions"]} contributions in the last year</text>'
+        f'{cal["totalContributions"]} contributions in {cal["year"]}</text>'
     )
     legend_x = w - 10 - 5 * STEP - 60
     parts.append(f'<text class="t" x="{legend_x}" y="{base_y}">less</text>')

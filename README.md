@@ -75,13 +75,13 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--C4:START-->
 
-🟡 **yellow moves next** — click a column number and press *create* to drop a disc.
+🔴 **red moves next** — click a column number and press *create* to drop a disc.
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v=2">
-<img alt="Connect Four board" src="assets/board-light.svg?v=2" width="420">
+<source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v=3">
+<img alt="Connect Four board" src="assets/board-light.svg?v=3" width="420">
 </picture>
 
 ⬇️&nbsp;&nbsp;[**1**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C1&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**2**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C2&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**3**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C3&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**4**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C4&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**5**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C5&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**6**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C6&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**7**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C7&body=press+create+and+the+board+will+update+in+~30+seconds.)
@@ -90,6 +90,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 **Recent moves**
 
+- 🟡 [@ConnorXTan](https://github.com/ConnorXTan) → column 4
 - 🔴 [@ConnorXTan](https://github.com/ConnorXTan) → column 5
 - 🟡 [@ConnorXTan](https://github.com/ConnorXTan) → column 3
 - 🔴 [@ConnorXTan](https://github.com/ConnorXTan) → column 4

@@ -38,7 +38,7 @@ def monkeytype_wpm():
         return None
     try:
         out = http(
-            "https://api.monkeytype.com/users/personalBests?mode=time&mode2=60",
+            "https://api.monkeytype.com/users/personalBests?mode=words&mode2=10",
             headers={"Authorization": f"ApeKey {key}"},
         )
     except Exception as e:
@@ -111,7 +111,7 @@ def spotify_track():
 def build_block(wpm, track):
     bits = []
     if wpm:
-        bits.append(f"⌨️ **typing pb:** {wpm} wpm")
+        bits.append(f"⌨️ **10-word pb:** {wpm} wpm")
     if track:
         art = f'<img src="{track["art"]}" height="16" alt=""/> ' if track["art"] else ""
         bits.append(

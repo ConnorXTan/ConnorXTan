@@ -244,14 +244,15 @@ def readme_section(state):
         sub_bits.append("last game: a draw 🤝")
     sub_line = " · ".join(sub_bits)
 
+    seq = state.get("seq", 0)
     return f"""
 {EMOJI[turn]} **{NAME[turn]} moves next** — click a column number and press *create* to drop a disc.
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg">
-<img alt="Connect Four board" src="assets/board-light.svg" width="420">
+<source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v={seq}">
+<img alt="Connect Four board" src="assets/board-light.svg?v={seq}" width="420">
 </picture>
 
 ⬇️&nbsp;&nbsp;{link_row}
@@ -310,6 +311,7 @@ def main():
         print(json.dumps({"ok": True, "message": "rendered"}))
         return
 
+    state["seq"] = state.get("seq", 0) + 1
     result = apply_move(state, args.col, args.user)
     if result["ok"]:
         save_state(state)

@@ -5,7 +5,9 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⚙️ <sub>live stats warming up…</sub>
+🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485107119e368d880d74ac03758b" height="16" alt=""/> [be careful with my heart — Rocco](https://open.spotify.com/track/6psfhCdWiQOMGNP6rJzRtY)
+
+<sub>live via github actions · updated 2026-07-22 18:49 UTC</sub>
 <!--STATS:END-->
 
 </div>

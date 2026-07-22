@@ -83,7 +83,7 @@ def render(cal, theme):
     n_weeks = len(weeks)
     w = LEFT + n_weeks * STEP - GAP + 10
     h = TOP + 7 * STEP - GAP + BOTTOM
-    wave_end_ms = n_weeks * 140 + 6 * 18 + 900  # last cell's delay + duration
+    wave_end_ms = n_weeks * 100 + 6 * 15 + 800  # last cell's delay + duration
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
@@ -92,7 +92,7 @@ def render(cal, theme):
   opacity: 0;
   transform-box: fill-box;
   transform-origin: center;
-  animation: rise .9s cubic-bezier(.22,.61,.36,1) both;
+  animation: rise .8s cubic-bezier(.22,.61,.36,1) both;
 }}
 .t {{
   opacity: 0;
@@ -144,7 +144,7 @@ def render(cal, theme):
             x = LEFT + wi * STEP
             y = TOP + day["weekday"] * STEP
             fill = t["ramp"][LEVELS.get(day["contributionLevel"], 0)]
-            delay = wi * 140 + day["weekday"] * 18
+            delay = wi * 100 + day["weekday"] * 15
             parts.append(
                 f'<rect class="c" x="{x}" y="{y}" width="{CELL}" height="{CELL}" '
                 f'rx="2.5" fill="{fill}" style="animation-delay:{delay}ms"/>'

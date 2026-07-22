@@ -1,0 +1,71 @@
+name: connect-four
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: connect-four
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'c4|drop|')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+      PLAYER: ${{ github.event.issue.user.login }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Acknowledge
+        run: gh api "repos/${{ github.repository }}/issues/$ISSUE/reactions" -f content=eyes --silent || true
+
+      - name: Apply move
+        id: move
+        run: |
+          COL=$(echo "${{ github.event.issue.title }}" | cut -d'|' -f3 | tr -cd '0-9')
+          if [ -z "$COL" ]; then
+            echo "message=I couldn't read a column number from that title — use the links on the board!" >> "$GITHUB_OUTPUT"
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          set +e
+          RESULT=$(python3 scripts/connect_four.py move --col "$COL" --user "$PLAYER")
+          STATUS=$?
+          set -e
+          echo "result: $RESULT (exit $STATUS)"
+          MSG=$(echo "$RESULT" | python3 -c "import json,sys; print(json.load(sys.stdin)['message'])")
+          echo "message=$MSG" >> "$GITHUB_OUTPUT"
+          if [ "$STATUS" -eq 0 ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "ok=false" >> "$GITHUB_OUTPUT"; fi
+          echo "col=$COL" >> "$GITHUB_OUTPUT"
+
+      - name: Commit board
+        if: steps.move.outputs.ok == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets games
+          git commit -m "🎮 @$PLAYER drops in column ${{ steps.move.outputs.col }}"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            sleep 3
+          done
+
+      - name: Reply and close
+        if: always()
+        run: |
+          MSG="${{ steps.move.outputs.message }}"
+          [ -z "$MSG" ] && MSG="Something went wrong processing that move — sorry! Try again?"
+          if [ "${{ steps.move.outputs.ok }}" = "true" ]; then
+            MSG="$MSG"$'\n\n'"[⬅️ Back to the board](https://github.com/${{ github.repository }}#-community-connect-four)"
+          fi
+          gh issue comment "$ISSUE" --repo "${{ github.repository }}" --body "$MSG"
+          gh issue close "$ISSUE" --repo "${{ github.repository }}"

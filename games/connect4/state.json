@@ -1,0 +1,72 @@
+{
+  "game": {
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "turn": "R",
+    "last_player": null,
+    "last_col": null,
+    "moves": [],
+    "win_cells": []
+  },
+  "stats": {
+    "games": 0,
+    "red_wins": 0,
+    "yellow_wins": 0,
+    "draws": 0
+  },
+  "last_result": null
+}

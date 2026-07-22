@@ -92,7 +92,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 - 🔴 [@ConnorXTan](https://github.com/ConnorXTan) → column 4
 
-<sub>🎮 game **1** · 🔴 wins: **0** · 🟡 wins: **0** · 🤝 draws: **0**</sub>
+<sub>🔴 wins: **0** · 🟡 wins: **0** · 🤝 draws: **0**</sub>
 
 <!--C4:END-->
 

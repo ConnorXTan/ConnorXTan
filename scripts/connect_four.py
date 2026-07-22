@@ -232,7 +232,6 @@ def readme_section(state):
     recent_md = "\n".join(recent) if recent else "*No moves yet this game — start it off!*"
 
     sub_bits = [
-        f"🎮 game **{stats['games'] + 1}**",
         f"🔴 wins: **{stats['red_wins']}**",
         f"🟡 wins: **{stats['yellow_wins']}**",
         f"🤝 draws: **{stats['draws']}**",

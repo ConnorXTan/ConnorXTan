@@ -130,8 +130,10 @@ def apply_move(state, col, user):
         state["stats"]["games"] += 1
         state["stats"]["draws"] += 1
         state["last_result"] = {"kind": "draw", "color": None, "user": user}
+        finished = dict(game)
         state["game"] = new_game()
-        return {"ok": True, "message": "It's a draw — board full with no connect four. Fresh board is up!"}
+        return {"ok": True, "message": "It's a draw — board full with no connect four. Fresh board is up!",
+                "finished_board": finished}
 
     nxt = state["game"]["turn"]
     return {"ok": True, "message": f"{EMOJI[color]} Dropped in column {col}! {EMOJI[nxt]} {NAME[nxt].capitalize()} moves next."}
@@ -242,8 +244,14 @@ def readme_section(state):
     sub_line = " · ".join(sub_bits)
 
     seq = state.get("seq", 0)
+    just_ended = bool(last) and not game["moves"]
+    if just_ended:
+        intro = (f"{EMOJI[turn]} **{NAME[turn]} starts a fresh game** — click a column number and press *create* to drop a disc."
+                 f"\n<sub>the board above shows how the last game ended — it clears on the next drop.</sub>")
+    else:
+        intro = f"{EMOJI[turn]} **{NAME[turn]} moves next** — click a column number and press *create* to drop a disc."
     return f"""
-{EMOJI[turn]} **{NAME[turn]} moves next** — click a column number and press *create* to drop a disc.
+{intro}
 
 <div align="center">
 

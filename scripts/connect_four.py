@@ -208,10 +208,7 @@ def render_svg(game, theme):
 
 def issue_url(col):
     title = f"c4%7Cdrop%7C{col}"
-    body = (
-        f"Just+press+%27Create%27+below+%E2%80%94+a+bot+will+drop+your+disc+in+"
-        f"column+{col}+and+update+the+board+in+~30+seconds.+%F0%9F%8E%AE"
-    )
+    body = "press+create+and+the+board+will+update+in+~30+seconds."
     return f"https://github.com/{REPO}/issues/new?title={title}&body={body}"
 
 

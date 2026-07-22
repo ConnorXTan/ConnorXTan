@@ -16,7 +16,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--C4:START-->
 
-**Anyone with a GitHub account can play — it's one shared board.** 🔴 **Red moves next.**
+**Anyone with a GitHub account can play — it's one shared board.** 🟡 **Yellow moves next.**
 Click a column number to drop a disc (it opens a pre-filled issue — just press *Create*):
 
 <div align="center">
@@ -32,7 +32,7 @@ Click a column number to drop a disc (it opens a pre-filled issue — just press
 
 **Recent moves**
 
-*No moves yet this game — start it off!*
+- 🔴 [@ConnorXTan](https://github.com/ConnorXTan) → column 4
 
 <sub>🏁 games played: **0** · 🔴 wins: **0** · 🟡 wins: **0** · 🤝 draws: **0** · This is the very first game — make history.</sub>
 

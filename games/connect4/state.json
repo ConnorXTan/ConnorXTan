@@ -50,16 +50,22 @@
         null,
         null,
         null,
-        null,
+        "R",
         null,
         null,
         null
       ]
     ],
-    "turn": "R",
-    "last_player": null,
-    "last_col": null,
-    "moves": [],
+    "turn": "Y",
+    "last_player": "ConnorXTan",
+    "last_col": 3,
+    "moves": [
+      {
+        "col": 4,
+        "color": "R",
+        "user": "ConnorXTan"
+      }
+    ],
     "win_cells": []
   },
   "stats": {

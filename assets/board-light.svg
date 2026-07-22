@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="484" height="480" viewBox="0 0 484 480">
 <rect x="0" y="26" width="484" height="420" rx="18" fill="#1e40af"/>
 <rect x="0" y="26" width="484" height="414" rx="18" fill="#2563eb"/>
+<path d="M 233 6 L 251 6 L 242 20 Z" fill="#57606a"/>
 <circle cx="50" cy="73" r="24" fill="#ffffff"/>
 <circle cx="114" cy="73" r="24" fill="#ffffff"/>
 <circle cx="178" cy="73" r="24" fill="#ffffff"/>
@@ -39,7 +40,8 @@
 <circle cx="50" cy="393" r="24" fill="#ffffff"/>
 <circle cx="114" cy="393" r="24" fill="#ffffff"/>
 <circle cx="178" cy="393" r="24" fill="#ffffff"/>
-<circle cx="242" cy="393" r="24" fill="#ffffff"/>
+<circle cx="242" cy="393" r="24" fill="#ef4444"/>
+<circle cx="234" cy="384" r="7" fill="#fca5a5" opacity="0.7"/>
 <circle cx="306" cy="393" r="24" fill="#ffffff"/>
 <circle cx="370" cy="393" r="24" fill="#ffffff"/>
 <circle cx="434" cy="393" r="24" fill="#ffffff"/>

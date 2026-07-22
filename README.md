@@ -49,7 +49,7 @@ everything back, and closes your issue with the result. the whole thing takes
 about 30 seconds.
 
 the [live stats](.github/workflows/update-stats.yml) at the top work the same
-way, just on an hourly schedule.
+way, refreshing every 15 minutes.
 
 </details>
 

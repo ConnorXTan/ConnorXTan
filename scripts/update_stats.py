@@ -22,10 +22,14 @@ README_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 
 def http(url, headers=None, data=None, timeout=15):
     req = urllib.request.Request(url, headers=headers or {}, data=data)
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        if resp.status == 204:
-            return None
-        return json.loads(resp.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            if resp.status == 204:
+                return None
+            return json.loads(resp.read().decode())
+    except urllib.error.HTTPError as e:
+        body = e.read().decode(errors="replace")[:300]
+        raise RuntimeError(f"HTTP {e.code}: {body}") from None
 
 
 def monkeytype_wpm():

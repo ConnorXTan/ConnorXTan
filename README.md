@@ -46,4 +46,4 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--C4:END-->
 
-<!-- 🕵️ reading the markdown source, are we? we should be friends → connor-tan.me -->
+<!-- 🥚 easter egg 1/3 🥚 -->

@@ -156,14 +156,14 @@ THEMES = {
     },
 }
 
-CELL, PAD, TOP, NUM_H = 64, 18, 26, 34
+CELL, PAD, TOP = 64, 18, 26
 
 
 def render_svg(game, theme):
     t = THEMES[theme]
     w = COLS * CELL + PAD * 2
     board_h = ROWS * CELL + PAD * 2
-    h = TOP + board_h + NUM_H
+    h = TOP + board_h
     win = {tuple(c) for c in game.get("win_cells", [])}
 
     parts = [
@@ -193,14 +193,6 @@ def render_svg(game, theme):
             if (r, c) in win:
                 parts.append(f'<circle cx="{cx}" cy="{cy}" r="27" fill="none" stroke="{t["ring"]}" stroke-width="4"/>')
 
-    for c in range(COLS):
-        cx = PAD + c * CELL + CELL // 2
-        parts.append(
-            f'<text x="{cx}" y="{TOP + board_h + 24}" text-anchor="middle" '
-            f'font-family="ui-monospace, SFMono-Regular, Menlo, monospace" '
-            f'font-size="17" fill="{t["num"]}">{c + 1}</text>'
-        )
-
     parts.append("</svg>")
     return "\n".join(parts) + "\n"
 
@@ -218,13 +210,14 @@ def readme_section(state):
     stats = state["stats"]
     turn = game["turn"]
 
-    links = []
+    strip = []
     for c in range(COLS):
+        n = c + 1
         if drop_row(game["board"], c) is not None:
-            links.append(f"[**{c + 1}**]({issue_url(c + 1)})")
+            strip.append(f"[![{n}](assets/num{n}.svg)]({issue_url(n)})")
         else:
-            links.append(f"~~{c + 1}~~")
-    link_row = " &nbsp; ".join(links)
+            strip.append(f"![{n}](assets/num{n}-dim.svg)")
+    link_row = "".join(strip)
 
     recent = []
     for m in reversed(game["moves"][-5:]):
@@ -257,10 +250,10 @@ def readme_section(state):
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v={seq}">
-<img alt="Connect Four board" src="assets/board-light.svg?v={seq}" width="420">
+<img alt="Connect Four board" src="assets/board-light.svg?v={seq}">
 </picture>
 
-⬇️&nbsp;&nbsp;{link_row}
+{link_row}
 
 </div>
 
@@ -287,11 +280,30 @@ def rewrite_readme(state):
             f.write(new)
 
 
+def render_number_strip():
+    # slice widths sum to the board's full width; end slices absorb the side
+    # padding so every number centers exactly under its column
+    widths = [PAD + CELL] + [CELL] * 5 + [CELL + PAD]
+    text_x = [PAD + CELL // 2] + [CELL // 2] * 6
+    for i in range(COLS):
+        w, x = widths[i], text_x[i]
+        for suffix, opacity in (("", "1"), ("-dim", "0.3")):
+            svg = (
+                f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="30" viewBox="0 0 {w} 30">'
+                f'<text x="{x}" y="21" text-anchor="middle" '
+                f'font-family="ui-monospace, SFMono-Regular, Menlo, monospace" '
+                f'font-size="17" font-weight="bold" fill="#6e7781" opacity="{opacity}">{i + 1}</text></svg>'
+            )
+            with open(os.path.join(ASSETS_DIR, f"num{i + 1}{suffix}.svg"), "w") as f:
+                f.write(svg + "\n")
+
+
 def render_all(state, finished_board=None):
     # If a game just ended, show the finished board (with the winning ring)
     # rather than the freshly reset empty one.
     game = finished_board or state["game"]
     os.makedirs(ASSETS_DIR, exist_ok=True)
+    render_number_strip()
     for theme in THEMES:
         with open(os.path.join(ASSETS_DIR, f"board-{theme}.svg"), "w") as f:
             f.write(render_svg(game, theme))

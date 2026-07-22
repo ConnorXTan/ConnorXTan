@@ -81,10 +81,10 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v=3">
-<img alt="Connect Four board" src="assets/board-light.svg?v=3" width="420">
+<img alt="Connect Four board" src="assets/board-light.svg?v=3">
 </picture>
 
-⬇️&nbsp;&nbsp;[**1**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C1&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**2**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C2&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**3**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C3&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**4**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C4&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**5**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C5&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**6**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C6&body=press+create+and+the+board+will+update+in+~30+seconds.) &nbsp; [**7**](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C7&body=press+create+and+the+board+will+update+in+~30+seconds.)
+[![1](assets/num1.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C1&body=press+create+and+the+board+will+update+in+~30+seconds.)[![2](assets/num2.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C2&body=press+create+and+the+board+will+update+in+~30+seconds.)[![3](assets/num3.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C3&body=press+create+and+the+board+will+update+in+~30+seconds.)[![4](assets/num4.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C4&body=press+create+and+the+board+will+update+in+~30+seconds.)[![5](assets/num5.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C5&body=press+create+and+the+board+will+update+in+~30+seconds.)[![6](assets/num6.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C6&body=press+create+and+the+board+will+update+in+~30+seconds.)[![7](assets/num7.svg)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C7&body=press+create+and+the+board+will+update+in+~30+seconds.)
 
 </div>
 

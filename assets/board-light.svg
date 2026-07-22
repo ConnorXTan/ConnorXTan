@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="484" height="480" viewBox="0 0 484 480">
+<svg xmlns="http://www.w3.org/2000/svg" width="484" height="446" viewBox="0 0 484 446">
 <rect x="0" y="26" width="484" height="420" rx="18" fill="#1e40af"/>
 <rect x="0" y="26" width="484" height="414" rx="18" fill="#2563eb"/>
 <path d="M 233 6 L 251 6 L 242 20 Z" fill="#57606a"/>
@@ -48,11 +48,4 @@
 <circle cx="298" cy="384" r="7" fill="#fca5a5" opacity="0.7"/>
 <circle cx="370" cy="393" r="24" fill="#ffffff"/>
 <circle cx="434" cy="393" r="24" fill="#ffffff"/>
-<text x="50" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">1</text>
-<text x="114" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">2</text>
-<text x="178" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">3</text>
-<text x="242" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">4</text>
-<text x="306" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">5</text>
-<text x="370" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">6</text>
-<text x="434" y="470" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#57606a">7</text>
 </svg>

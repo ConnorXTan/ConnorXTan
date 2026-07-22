@@ -38,17 +38,18 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 <!--C4:END-->
 
 <details>
-<summary>🤔 wait, how does a README play connect four?</summary>
+<summary>🤔 wait, how does a readme play connect four?</summary>
 <br>
 
-Each column number is a link that opens a pre-filled GitHub issue. Opening it
-triggers a [GitHub Action](.github/workflows/connect-four.yml) that runs a
-[tiny game engine](scripts/connect_four.py), validates your move, re-renders
-the board as SVG (light **and** dark mode), rewrites this README, commits it
-all back, and closes your issue with the result — usually in under 30 seconds.
+every column number is just a link to a pre-filled github issue. opening one
+kicks off a [github action](.github/workflows/connect-four.yml) that runs a
+[tiny game engine](scripts/connect_four.py), checks your move, redraws the
+board (svg, works in light and dark mode), rewrites this readme, commits
+everything back, and closes your issue with the result. the whole thing takes
+about 30 seconds.
 
-The [live stats](.github/workflows/update-stats.yml) up top work the same way,
-on an hourly schedule.
+the [live stats](.github/workflows/update-stats.yml) at the top work the same
+way, just on an hourly schedule.
 
 </details>
 

@@ -12,7 +12,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 ---
 
-## 🔴 community connect four
+## 🔴 connect four
 
 <!--C4:START-->
 

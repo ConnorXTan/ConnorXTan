@@ -2,7 +2,7 @@ name: update-stats
 
 on:
   schedule:
-    - cron: "17 * * * *" # hourly, off the :00 rush
+    - cron: "7,22,37,52 * * * *" # every 15 min, off the :00 rush
   workflow_dispatch:
 
 permissions:

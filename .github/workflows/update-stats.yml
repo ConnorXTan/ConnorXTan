@@ -20,6 +20,11 @@ jobs:
         with:
           ref: main
 
+      - name: Redraw contribution graph
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/contribution_graph.py
+
       - name: Fetch stats and rewrite README
         env:
           MONKEYTYPE_APEKEY: ${{ secrets.MONKEYTYPE_APEKEY }}

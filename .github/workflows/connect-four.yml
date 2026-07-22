@@ -65,7 +65,7 @@ jobs:
           MSG="${{ steps.move.outputs.message }}"
           [ -z "$MSG" ] && MSG="Something went wrong processing that move — sorry! Try again?"
           if [ "${{ steps.move.outputs.ok }}" = "true" ]; then
-            MSG="$MSG"$'\n\n'"[⬅️ Back to the board](https://github.com/${{ github.repository }}#-community-connect-four)"
+            MSG="$MSG"$'\n\n'"[⬅️ Back to the board](https://github.com/${{ github.repository }}#-connect-four)"
           fi
           gh issue comment "$ISSUE" --repo "${{ github.repository }}" --body "$MSG"
           gh issue close "$ISSUE" --repo "${{ github.repository }}"

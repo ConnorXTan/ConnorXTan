@@ -231,13 +231,18 @@ def readme_section(state):
         recent.append(f"- {EMOJI[m['color']]} [@{m['user']}](https://github.com/{m['user']}) → column {m['col']}{won}")
     recent_md = "\n".join(recent) if recent else "*No moves yet this game — start it off!*"
 
+    sub_bits = [
+        f"🎮 game **{stats['games'] + 1}**",
+        f"🔴 wins: **{stats['red_wins']}**",
+        f"🟡 wins: **{stats['yellow_wins']}**",
+        f"🤝 draws: **{stats['draws']}**",
+    ]
     last = state.get("last_result")
     if last and last["kind"] == "win":
-        last_md = f"Last game: {EMOJI[last['color']]} won, clinched by [@{last['user']}](https://github.com/{last['user']}) 🏆"
+        sub_bits.append(f"last game: {EMOJI[last['color']]} won, clinched by [@{last['user']}](https://github.com/{last['user']}) 🏆")
     elif last and last["kind"] == "draw":
-        last_md = "Last game: a draw 🤝"
-    else:
-        last_md = "This is the very first game — make history."
+        sub_bits.append("last game: a draw 🤝")
+    sub_line = " · ".join(sub_bits)
 
     return f"""
 {EMOJI[turn]} **{NAME[turn]} moves next** — click a column number and press *create* to drop a disc.
@@ -257,7 +262,7 @@ def readme_section(state):
 
 {recent_md}
 
-<sub>🏁 games played: **{stats['games']}** · 🔴 wins: **{stats['red_wins']}** · 🟡 wins: **{stats['yellow_wins']}** · 🤝 draws: **{stats['draws']}** · {last_md}</sub>
+<sub>{sub_line}</sub>
 """
 
 

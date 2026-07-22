@@ -5,9 +5,9 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485107119e368d880d74ac03758b" height="16" alt=""/> [be careful with my heart — Rocco](https://open.spotify.com/track/6psfhCdWiQOMGNP6rJzRtY)
+⌨️ **typing pb:** 116 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485107119e368d880d74ac03758b" height="16" alt=""/> [be careful with my heart — Rocco](https://open.spotify.com/track/6psfhCdWiQOMGNP6rJzRtY)
 
-<sub>live via github actions · updated 2026-07-22 18:52 UTC</sub>
+<sub>live via github actions · updated 2026-07-22 18:53 UTC</sub>
 <!--STATS:END-->
 
 </div>

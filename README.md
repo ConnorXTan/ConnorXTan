@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ba0eb66474cd3cb5bd2dad6b" height="16" alt=""/> [Wok — iluvmyzelf](https://open.spotify.com/track/1NpdCw5BNKqY3uIMJWO0eo)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ba0eb66474cd3cb5bd2dad6b" height="16" alt=""/> [Wok — iluvmyzelf](https://open.spotify.com/track/1NpdCw5BNKqY3uIMJWO0eo)
 <!--STATS:END-->
 
 </div>

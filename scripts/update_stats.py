@@ -19,8 +19,13 @@ import urllib.request
 README_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md")
 
 
+UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+
+
 def http(url, headers=None, data=None, timeout=15):
-    req = urllib.request.Request(url, headers=headers or {}, data=data)
+    headers = dict(headers or {})
+    headers.setdefault("User-Agent", UA)
+    req = urllib.request.Request(url, headers=headers, data=data)
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             if resp.status == 204:
@@ -107,24 +112,38 @@ def spotify_track():
         return None
 
 
-def build_block(wpm, track):
+def build_block(wpm, track_md):
     bits = []
     if wpm:
         bits.append(f"⌨️ **10-word pb:** {wpm} wpm")
-    if track:
-        art = f'<img src="{track["art"]}" height="16" alt=""/> ' if track["art"] else ""
-        bits.append(
-            f'🎧 **{track["verb"]}:** {art}[{track["name"]} — {track["artist"]}]({track["url"]})'
-        )
+    if track_md:
+        bits.append(track_md)
     if not bits:
         return "⚙️ <sub>live stats warming up…</sub>"
     return " &nbsp;·&nbsp; ".join(bits)
 
 
 def main():
-    block = build_block(monkeytype_wpm(), spotify_track())
     with open(README_PATH) as f:
         content = f.read()
+    m = re.search(r"<!--STATS:START-->(.*?)<!--STATS:END-->", content, re.S)
+    prev = m.group(1) if m else ""
+
+    # a failed fetch keeps the previous value instead of erasing the stat
+    wpm = monkeytype_wpm()
+    if wpm is None:
+        pm = re.search(r"\*\*10-word pb:\*\* (\d+) wpm", prev)
+        wpm = int(pm.group(1)) if pm else None
+
+    track = spotify_track()
+    if track:
+        art = f'<img src="{track["art"]}" height="16" alt=""/> ' if track["art"] else ""
+        track_md = f'🎧 **{track["verb"]}:** {art}[{track["name"]} — {track["artist"]}]({track["url"]})'
+    else:
+        tm = re.search(r"(🎧 \*\*[^\n]+)", prev)
+        track_md = tm.group(1).rstrip() if tm else None
+
+    block = build_block(wpm, track_md)
     new = re.sub(
         r"(<!--STATS:START-->).*?(<!--STATS:END-->)",
         lambda m: m.group(1) + "\n" + block + "\n" + m.group(2),

@@ -75,13 +75,13 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--C4:START-->
 
-🟡 **yellow moves next** — click a column number and press *create* to drop a disc.
+🔴 **red moves next** — click a column number and press *create* to drop a disc.
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v=4">
-<img alt="Connect Four board" src="assets/board-light.svg?v=4">
+<source media="(prefers-color-scheme: dark)" srcset="assets/board-dark.svg?v=5">
+<img alt="Connect Four board" src="assets/board-light.svg?v=5">
 </picture>
 
 [![1](assets/num1.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C1&body=press+create+and+the+board+will+update+in+~30+seconds.)[![2](assets/num2.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C2&body=press+create+and+the+board+will+update+in+~30+seconds.)[![3](assets/num3.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C3&body=press+create+and+the+board+will+update+in+~30+seconds.)[![4](assets/num4.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C4&body=press+create+and+the+board+will+update+in+~30+seconds.)[![5](assets/num5.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C5&body=press+create+and+the+board+will+update+in+~30+seconds.)[![6](assets/num6.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C6&body=press+create+and+the+board+will+update+in+~30+seconds.)[![7](assets/num7.svg?s=2)](https://github.com/ConnorXTan/ConnorXTan/issues/new?title=c4%7Cdrop%7C7&body=press+create+and+the+board+will+update+in+~30+seconds.)
@@ -90,11 +90,11 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 **Recent moves**
 
+- 🟡 [@ConnorXTan](https://github.com/ConnorXTan) → column 4
 - 🔴 [@AlanP70](https://github.com/AlanP70) → column 3
 - 🟡 [@ConnorXTan](https://github.com/ConnorXTan) → column 4
 - 🔴 [@ConnorXTan](https://github.com/ConnorXTan) → column 5
 - 🟡 [@ConnorXTan](https://github.com/ConnorXTan) → column 3
-- 🔴 [@ConnorXTan](https://github.com/ConnorXTan) → column 4
 
 <sub>🔴 wins: **0** · 🟡 wins: **0** · 🤝 draws: **0**</sub>
 

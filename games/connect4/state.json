@@ -32,7 +32,7 @@
         null,
         null,
         null,
-        null,
+        "Y",
         null,
         null,
         null
@@ -56,9 +56,9 @@
         null
       ]
     ],
-    "turn": "Y",
-    "last_player": "AlanP70",
-    "last_col": 2,
+    "turn": "R",
+    "last_player": "ConnorXTan",
+    "last_col": 3,
     "moves": [
       {
         "col": 4,
@@ -84,6 +84,11 @@
         "col": 3,
         "color": "R",
         "user": "AlanP70"
+      },
+      {
+        "col": 4,
+        "color": "Y",
+        "user": "ConnorXTan"
       }
     ],
     "win_cells": []
@@ -95,5 +100,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 4
+  "seq": 5
 }

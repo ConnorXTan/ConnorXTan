@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ba0eb66474cd3cb5bd2dad6b" height="16" alt=""/> [Wok — iluvmyzelf](https://open.spotify.com/track/1NpdCw5BNKqY3uIMJWO0eo)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485156bf918dc517050ebf113d22" height="16" alt=""/> [EA (feat. 21 Savage) — Young Nudy, 21 Savage](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s)
 <!--STATS:END-->
 
 </div>

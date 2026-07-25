@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485134f2d9844b4114bd781d5bc4" height="16" alt=""/> [Love Like You (feat. Rebecca Sugar) - End Credits — Steven Universe, Rebecca Sugar](https://open.spotify.com/track/3z9OnsnvM6SFN2dzrSDdVO)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d0000485193bbb7ad730a5efeccc507bf" height="16" alt=""/> [egotistical — hako, 800pts](https://open.spotify.com/track/67Tpaz7HEUUasdcaZwTSAA)
 <!--STATS:END-->
 
 </div>

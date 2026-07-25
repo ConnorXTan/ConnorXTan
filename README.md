@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d0000485193bbb7ad730a5efeccc507bf" height="16" alt=""/> [egotistical — hako, 800pts](https://open.spotify.com/track/67Tpaz7HEUUasdcaZwTSAA)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485114b7b2a920a41166d53ddd49" height="16" alt=""/> [Woman — Doja Cat](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
 <!--STATS:END-->
 
 </div>

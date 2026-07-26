@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485114b7b2a920a41166d53ddd49" height="16" alt=""/> [Woman — Doja Cat](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c74e7dbfb5e86ae113b75640" height="16" alt=""/> [luna llena — Bumboi, Ze66y](https://open.spotify.com/track/06TwD1j13NSae2BiNrjzX0)
 <!--STATS:END-->
 
 </div>

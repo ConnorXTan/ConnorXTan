@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485198ea0e689c91f8fea726d9bb" height="16" alt=""/> [Sky — Playboi Carti](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f23aee9d3be9fcbca1bc6352" height="16" alt=""/> [XO Tour Llif3 — Lil Uzi Vert](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO)
 <!--STATS:END-->
 
 </div>

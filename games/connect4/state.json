@@ -53,12 +53,12 @@
         "R",
         "R",
         null,
-        null
+        "R"
       ]
     ],
-    "turn": "R",
-    "last_player": "ConnorXTan",
-    "last_col": 3,
+    "turn": "Y",
+    "last_player": "ryanli0070",
+    "last_col": 6,
     "moves": [
       {
         "col": 4,
@@ -89,6 +89,11 @@
         "col": 4,
         "color": "Y",
         "user": "ConnorXTan"
+      },
+      {
+        "col": 7,
+        "color": "R",
+        "user": "ryanli0070"
       }
     ],
     "win_cells": []
@@ -100,5 +105,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 5
+  "seq": 6
 }

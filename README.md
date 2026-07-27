@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048519a1a952b7616b7681c3ec3b5" height="16" alt=""/> [DONNY DARKO (FEAT. LIL UZI VERT) — Don Toliver, Lil Uzi Vert](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485198ea0e689c91f8fea726d9bb" height="16" alt=""/> [Sky — Playboi Carti](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ)
 <!--STATS:END-->
 
 </div>

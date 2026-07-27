@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048516d5a148417ab9b8a43041c1f" height="16" alt=""/> [Private Landing (feat. Justin Bieber & Future) — Don Toliver, Justin Bieber, Future](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048519a1a952b7616b7681c3ec3b5" height="16" alt=""/> [DONNY DARKO (FEAT. LIL UZI VERT) — Don Toliver, Lil Uzi Vert](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n)
 <!--STATS:END-->
 
 </div>

@@ -194,7 +194,7 @@
 <rect class="c" x="338" y="20" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:1650ms"/>
 <rect class="c" x="338" y="34" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:1662ms"/>
 <rect class="c" x="338" y="48" width="11" height="11" rx="2.5" fill="#216e39" style="animation-delay:1674ms"/>
-<rect class="c" x="338" y="62" width="11" height="11" rx="2.5" fill="#30a14e" style="animation-delay:1686ms"/>
+<rect class="c" x="338" y="62" width="11" height="11" rx="2.5" fill="#40c463" style="animation-delay:1686ms"/>
 <rect class="c" x="338" y="76" width="11" height="11" rx="2.5" fill="#40c463" style="animation-delay:1698ms"/>
 <rect class="c" x="338" y="90" width="11" height="11" rx="2.5" fill="#216e39" style="animation-delay:1710ms"/>
 <rect class="c" x="338" y="104" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:1722ms"/>
@@ -245,12 +245,12 @@
 <rect class="c" x="436" y="48" width="11" height="11" rx="2.5" fill="#40c463" style="animation-delay:2199ms"/>
 <rect class="c" x="436" y="62" width="11" height="11" rx="2.5" fill="#216e39" style="animation-delay:2211ms"/>
 <rect class="c" x="436" y="76" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:2223ms"/>
-<rect class="c" x="436" y="90" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2235ms"/>
+<rect class="c" x="436" y="90" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:2235ms"/>
 <rect class="c" x="436" y="104" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2247ms"/>
 <rect class="c" x="450" y="20" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2250ms"/>
-<rect class="c" x="450" y="34" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2262ms"/>
-<rect class="c" x="450" y="48" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2274ms"/>
-<text class="t" x="30" y="132">704 contributions in 2026</text>
+<rect class="c" x="450" y="34" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:2262ms"/>
+<rect class="c" x="450" y="48" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:2274ms"/>
+<text class="t" x="30" y="132">730 contributions in 2026</text>
 <text class="t" x="331" y="132">less</text>
 <rect class="c" x="361" y="123" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:3097ms"/>
 <rect class="c" x="375" y="123" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:3097ms"/>

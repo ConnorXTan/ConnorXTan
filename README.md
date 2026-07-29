@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851a7f970147e3ada36bb6a5ecb" height="16" alt=""/> [Dancing — Adult Swim Smalls, Jack Stauber's Micropop](https://open.spotify.com/track/2PavpRW7fT1vU0nHQlpeKl)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851bc769a5f37fdac6439f4a37a" height="16" alt=""/> [BANANA SHAKE (SPED UP) — HUS](https://open.spotify.com/track/6qXGfKR1JHtH18PbT15k6F)
 <!--STATS:END-->
 
 </div>

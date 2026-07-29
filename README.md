@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485135a8a0c8b82b525679eceda6" height="16" alt=""/> [cocoa (with Don Toliver) — Baby Keem, Don Toliver](https://open.spotify.com/track/3OEjvmEBRrdTYbbrkiXG8a)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048510c5f23cbf0b1ab7e37d0dc67" height="16" alt=""/> [The Color Violet — Tory Lanez](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz)
 <!--STATS:END-->
 
 </div>

@@ -21,7 +21,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 </div>
 
-## 🧰 skills
+## skills
 
 <div align="center">
 
@@ -71,7 +71,7 @@ cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 </div>
 
-## 🔴 connect four
+## connect four
 
 <!--C4:START-->
 

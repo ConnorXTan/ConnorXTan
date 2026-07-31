@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851d7f97f84ffeaf2077813ef24" height="16" alt=""/> [Patience (feat. Don Toliver) — Lil Uzi Vert, Don Toliver](https://open.spotify.com/track/05grSYrVwYw58YMOdJceyz)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c0e4cedd7596644574d3a999" height="16" alt=""/> [Love Across The Bar — Rio Sterling](https://open.spotify.com/track/694ktS3ZyG49m8LAMrZft3)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851564430acfa6608ea3bac3e6e" height="16" alt=""/> [SO WHAT? — RC AVENUE](https://open.spotify.com/track/4BcOMwpOL9qJJZZLl3GVkU)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485132de04df349f991862fb9e38" height="16" alt=""/> [Everybody Talks — Ax and the Hatchetmen](https://open.spotify.com/track/3RlCfpdH6TND9D9Zx4MFPf)
 <!--STATS:END-->
 
 </div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="471" height="141" viewBox="0 0 471 141">
+<svg xmlns="http://www.w3.org/2000/svg" width="485" height="141" viewBox="0 0 485 141">
 <style>
 .c {
   opacity: 0;
@@ -9,7 +9,7 @@
 .t {
   opacity: 0;
   animation: fade .6s ease-out both;
-  animation-delay: 3097ms;
+  animation-delay: 3172ms;
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 10px;
   fill: #57606a;
@@ -38,6 +38,7 @@
 <text class="lbl" x="282" y="12">may</text>
 <text class="lbl" x="352" y="12">jun</text>
 <text class="lbl" x="408" y="12">jul</text>
+<text class="lbl" x="464" y="12">aug</text>
 <text class="lbl" x="0" y="43">mon</text>
 <text class="lbl" x="0" y="71">wed</text>
 <text class="lbl" x="0" y="99">fri</text>
@@ -254,12 +255,13 @@
 <rect class="c" x="450" y="76" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2298ms"/>
 <rect class="c" x="450" y="90" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2310ms"/>
 <rect class="c" x="450" y="104" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:2322ms"/>
+<rect class="c" x="464" y="20" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:2325ms"/>
 <text class="t" x="30" y="132">740 contributions in 2026</text>
-<text class="t" x="331" y="132">less</text>
-<rect class="c" x="361" y="123" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:3097ms"/>
-<rect class="c" x="375" y="123" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:3097ms"/>
-<rect class="c" x="389" y="123" width="11" height="11" rx="2.5" fill="#40c463" style="animation-delay:3097ms"/>
-<rect class="c" x="403" y="123" width="11" height="11" rx="2.5" fill="#30a14e" style="animation-delay:3097ms"/>
-<rect class="c" x="417" y="123" width="11" height="11" rx="2.5" fill="#216e39" style="animation-delay:3097ms"/>
-<text class="t" x="435" y="132">more</text>
+<text class="t" x="345" y="132">less</text>
+<rect class="c" x="375" y="123" width="11" height="11" rx="2.5" fill="#ebedf0" style="animation-delay:3172ms"/>
+<rect class="c" x="389" y="123" width="11" height="11" rx="2.5" fill="#9be9a8" style="animation-delay:3172ms"/>
+<rect class="c" x="403" y="123" width="11" height="11" rx="2.5" fill="#40c463" style="animation-delay:3172ms"/>
+<rect class="c" x="417" y="123" width="11" height="11" rx="2.5" fill="#30a14e" style="animation-delay:3172ms"/>
+<rect class="c" x="431" y="123" width="11" height="11" rx="2.5" fill="#216e39" style="animation-delay:3172ms"/>
+<text class="t" x="449" y="132">more</text>
 </svg>

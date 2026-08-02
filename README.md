@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851e383206968be8982219ef2f8" height="16" alt=""/> [Curious — CUBE](https://open.spotify.com/track/1RxE69amBRSa0ywQf5iCVB)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048518c52e39a4a18cff65bd1144c" height="16" alt=""/> [Bluish — Father Of Peace](https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8)
 <!--STATS:END-->
 
 </div>

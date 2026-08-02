@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485132de04df349f991862fb9e38" height="16" alt=""/> [Everybody Talks — Ax and the Hatchetmen](https://open.spotify.com/track/3RlCfpdH6TND9D9Zx4MFPf)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048513feee87ba987459cd681b071" height="16" alt=""/> [Teardrops — NEIL FRANCES](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048510c044e52637b2a8362e20659" height="16" alt=""/> [Hypotheticals — Lake Street Dive](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851570bb00626c561d15c849ef9" height="16" alt=""/> [reflection — kuala](https://open.spotify.com/track/046RvwqP6n9YfCZGOQ2cwJ)
 <!--STATS:END-->
 
 </div>

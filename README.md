@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048513feee87ba987459cd681b071" height="16" alt=""/> [Teardrops — NEIL FRANCES](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851977f786b337ca51a6cc6ee55" height="16" alt=""/> [Soft Gaze — Benjamin Davies](https://open.spotify.com/track/35E2O1CY3ZnuCwQjtmdOLV)
 <!--STATS:END-->
 
 </div>

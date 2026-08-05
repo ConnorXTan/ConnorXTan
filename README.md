@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048514a9c3e5ff022dbad1e549465" height="16" alt=""/> [There Will Be Rain — Million Eyes](https://open.spotify.com/track/1iv1JThcpZlvOIGhIJj99g)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485174c732f8aa0e0ccbb3d17d96" height="16" alt=""/> [Promise — Laufey](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn)
 <!--STATS:END-->
 
 </div>

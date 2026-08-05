@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485174c732f8aa0e0ccbb3d17d96" height="16" alt=""/> [Promise — Laufey](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f265bc6cc225980ac2bdd893" height="16" alt=""/> [facade — randymia, yuni](https://open.spotify.com/track/3IXKWleve8ie8uLhxjsP4z)
 <!--STATS:END-->
 
 </div>

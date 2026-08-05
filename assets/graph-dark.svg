@@ -195,7 +195,7 @@
 <rect class="c" x="338" y="20" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1650ms"/>
 <rect class="c" x="338" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1662ms"/>
 <rect class="c" x="338" y="48" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay:1674ms"/>
-<rect class="c" x="338" y="62" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:1686ms"/>
+<rect class="c" x="338" y="62" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:1686ms"/>
 <rect class="c" x="338" y="76" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:1698ms"/>
 <rect class="c" x="338" y="90" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay:1710ms"/>
 <rect class="c" x="338" y="104" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1722ms"/>
@@ -209,16 +209,16 @@
 <rect class="c" x="366" y="20" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:1800ms"/>
 <rect class="c" x="366" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1812ms"/>
 <rect class="c" x="366" y="48" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1824ms"/>
-<rect class="c" x="366" y="62" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1836ms"/>
+<rect class="c" x="366" y="62" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:1836ms"/>
 <rect class="c" x="366" y="76" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1848ms"/>
-<rect class="c" x="366" y="90" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:1860ms"/>
+<rect class="c" x="366" y="90" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay:1860ms"/>
 <rect class="c" x="366" y="104" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:1872ms"/>
 <rect class="c" x="380" y="20" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:1875ms"/>
 <rect class="c" x="380" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1887ms"/>
-<rect class="c" x="380" y="48" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1899ms"/>
+<rect class="c" x="380" y="48" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:1899ms"/>
 <rect class="c" x="380" y="62" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1911ms"/>
 <rect class="c" x="380" y="76" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1923ms"/>
-<rect class="c" x="380" y="90" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:1935ms"/>
+<rect class="c" x="380" y="90" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:1935ms"/>
 <rect class="c" x="380" y="104" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:1947ms"/>
 <rect class="c" x="394" y="20" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:1950ms"/>
 <rect class="c" x="394" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1962ms"/>
@@ -257,9 +257,9 @@
 <rect class="c" x="450" y="104" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2322ms"/>
 <rect class="c" x="464" y="20" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:2325ms"/>
 <rect class="c" x="464" y="34" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:2337ms"/>
-<rect class="c" x="464" y="48" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2349ms"/>
-<rect class="c" x="464" y="62" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2361ms"/>
-<text class="t" x="30" y="132">756 contributions in 2026</text>
+<rect class="c" x="464" y="48" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:2349ms"/>
+<rect class="c" x="464" y="62" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:2361ms"/>
+<text class="t" x="30" y="132">808 contributions in 2026</text>
 <text class="t" x="345" y="132">less</text>
 <rect class="c" x="375" y="123" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:3172ms"/>
 <rect class="c" x="389" y="123" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:3172ms"/>

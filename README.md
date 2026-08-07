@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048519c1e02d4becb7c5bbca01e2a" height="16" alt=""/> [Trust Issues — Drake](https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048517cb0c4f7761f6dd66aaca065" height="16" alt=""/> [Pure Cocaine — Lil Baby](https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v)
 <!--STATS:END-->
 
 </div>

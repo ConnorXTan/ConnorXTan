@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048510bb14472a76ee6d4b08fc16d" height="16" alt=""/> [Bubbles — Galeazzo](https://open.spotify.com/track/2cak9qM28L1TaaxgdMOVyh)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d0000485106d56b057cce5797538a16d5" height="16" alt=""/> [Love Galore (feat. Travis Scott) — SZA, Travis Scott](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs)
 <!--STATS:END-->
 
 </div>

@@ -42,7 +42,7 @@
         null,
         "R",
         "Y",
-        null,
+        "Y",
         null,
         null
       ],
@@ -56,9 +56,9 @@
         "R"
       ]
     ],
-    "turn": "Y",
-    "last_player": "muhammadbalawal",
-    "last_col": 1,
+    "turn": "R",
+    "last_player": "LucasHJin",
+    "last_col": 4,
     "moves": [
       {
         "col": 4,
@@ -104,6 +104,11 @@
         "col": 2,
         "color": "R",
         "user": "muhammadbalawal"
+      },
+      {
+        "col": 5,
+        "color": "Y",
+        "user": "LucasHJin"
       }
     ],
     "win_cells": []
@@ -115,5 +120,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 8
+  "seq": 9
 }

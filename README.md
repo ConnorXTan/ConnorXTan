@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485127561fc5580ea628227b4bbe" height="16" alt=""/> [Heaven — Avenoir, Bryant Barnes](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e55a3924103c132fd3fdc480" height="16" alt=""/> [TASTE — Lil Tecca](https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t)
 <!--STATS:END-->
 
 </div>

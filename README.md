@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d0000485116abf87d1540bf1ce86937d8" height="16" alt=""/> [Seventh Heaven — INOHA](https://open.spotify.com/track/0w9pPu36xDpQwAK2li6s4d)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851cc829748c0b576e1a1d833a5" height="16" alt=""/> [15mins — Akilho](https://open.spotify.com/track/52fQoeVrljHo5kYdFbseoj)
 <!--STATS:END-->
 
 </div>

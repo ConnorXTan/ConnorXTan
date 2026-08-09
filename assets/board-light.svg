@@ -28,7 +28,8 @@
 <circle cx="178" cy="265" r="24" fill="#ffffff"/>
 <circle cx="242" cy="265" r="24" fill="#eab308"/>
 <circle cx="234" cy="256" r="7" fill="#fde047" opacity="0.7"/>
-<circle cx="306" cy="265" r="24" fill="#ffffff"/>
+<circle cx="306" cy="265" r="24" fill="#ef4444"/>
+<circle cx="298" cy="256" r="7" fill="#fca5a5" opacity="0.7"/>
 <circle cx="370" cy="265" r="24" fill="#ffffff"/>
 <circle cx="434" cy="265" r="24" fill="#ffffff"/>
 <circle cx="50" cy="329" r="24" fill="#ffffff"/>

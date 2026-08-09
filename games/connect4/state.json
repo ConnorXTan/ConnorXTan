@@ -33,7 +33,7 @@
         null,
         null,
         "Y",
-        null,
+        "R",
         null,
         null
       ],
@@ -56,8 +56,8 @@
         "R"
       ]
     ],
-    "turn": "R",
-    "last_player": "LucasHJin",
+    "turn": "Y",
+    "last_player": "ryanli0070",
     "last_col": 4,
     "moves": [
       {
@@ -109,6 +109,11 @@
         "col": 5,
         "color": "Y",
         "user": "LucasHJin"
+      },
+      {
+        "col": 5,
+        "color": "R",
+        "user": "ryanli0070"
       }
     ],
     "win_cells": []
@@ -120,5 +125,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 9
+  "seq": 10
 }

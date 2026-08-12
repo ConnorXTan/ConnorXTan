@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851f7832bb86831bdec9848acda" height="16" alt=""/> [Impostor Syndrome — Sidney Gish](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048512071a0c79802d9375a53bfef" height="16" alt=""/> [Ella Baila Sola — Eslabon Armado, Peso Pluma](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb)
 <!--STATS:END-->
 
 </div>

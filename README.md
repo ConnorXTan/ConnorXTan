@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f22c62e0719a23885a725862" height="16" alt=""/> [Feel Good Inc (Peace) — Glacia](https://open.spotify.com/track/1hAsSjqrJtxoE7vChB54QQ)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851f7832bb86831bdec9848acda" height="16" alt=""/> [Impostor Syndrome — Sidney Gish](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd)
 <!--STATS:END-->
 
 </div>

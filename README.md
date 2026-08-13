@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048512071a0c79802d9375a53bfef" height="16" alt=""/> [Ella Baila Sola — Eslabon Armado, Peso Pluma](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048517241dc083f907f8eb469b89d" height="16" alt=""/> [Lavender Town — Riovaz](https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2)
 <!--STATS:END-->
 
 </div>

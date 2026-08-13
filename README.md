@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048518c52e39a4a18cff65bd1144c" height="16" alt=""/> [Bluish — Father Of Peace](https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b847b541f19a1c8cd21d1a65" height="16" alt=""/> [what if we? — Emi Choi](https://open.spotify.com/track/1b4EDa9QUbZEmORq0F3oLh)
 <!--STATS:END-->
 
 </div>

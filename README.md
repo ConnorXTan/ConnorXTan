@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048515e1017ff4e85def82738e9f7" height="16" alt=""/> [run away — WIMY, kuiper](https://open.spotify.com/track/6tCydcj1eXOYUK5PnKDIWG)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851420091caf71ffdb4bebe3d3b" height="16" alt=""/> [Color Your Night — Chewie Melodies, Pealeaf](https://open.spotify.com/track/7sDb2MqZdvulzRavioCCQe)
 <!--STATS:END-->
 
 </div>

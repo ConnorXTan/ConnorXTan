@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e806d0b86a15ac6b55267c6a" height="16" alt=""/> [close with desires (right person wrong timing) — Teo Glacier](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c06f8d26d1620c4689f8d46a" height="16" alt=""/> [Two Birds — Regina Spektor](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0)
 <!--STATS:END-->
 
 </div>

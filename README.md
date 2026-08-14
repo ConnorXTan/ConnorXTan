@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851c4e6adea69105e6b6e214b96" height="16" alt=""/> [Need Me — Lil Tecca](https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485115d35a6b8fe92f193468e6fa" height="16" alt=""/> [Chains — Aaron May](https://open.spotify.com/track/0XYHbwuUdQqVnr7Ef011QS)
 <!--STATS:END-->
 
 </div>

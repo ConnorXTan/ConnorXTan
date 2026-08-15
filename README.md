@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851cb50f03aa61251a4c843b96f" height="16" alt=""/> [In The Morning — Rocco](https://open.spotify.com/track/6qU4WFDcW9ENITjPMdY3bC)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b732a522a686bb304a5d3fdf" height="16" alt=""/> [Sway — Michael Bublé](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz)
 <!--STATS:END-->
 
 </div>

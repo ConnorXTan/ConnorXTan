@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048518ab831960754be15ae921c87" height="16" alt=""/> [can you be mine — ay3demi](https://open.spotify.com/track/5m5EUZaj6mwb5zeiQaJWzS)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048517c68face1dc58127f3a7b1cc" height="16" alt=""/> [Superpowers — Daniel Caesar](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu)
 <!--STATS:END-->
 
 </div>

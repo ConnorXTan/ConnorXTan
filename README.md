@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485115d35a6b8fe92f193468e6fa" height="16" alt=""/> [Chains — Aaron May](https://open.spotify.com/track/0XYHbwuUdQqVnr7Ef011QS)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048518ab831960754be15ae921c87" height="16" alt=""/> [can you be mine — ay3demi](https://open.spotify.com/track/5m5EUZaj6mwb5zeiQaJWzS)
 <!--STATS:END-->
 
 </div>

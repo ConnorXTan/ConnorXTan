@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485156bf918dc517050ebf113d22" height="16" alt=""/> [EA (feat. 21 Savage) — Young Nudy, 21 Savage](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851dd8f7d3784b0db06130b7686" height="16" alt=""/> [Valedictorian — Khantrast](https://open.spotify.com/track/4LefY4lGghbXd62dnD7qoz)
 <!--STATS:END-->
 
 </div>

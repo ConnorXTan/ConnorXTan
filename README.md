@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851dd8f7d3784b0db06130b7686" height="16" alt=""/> [Valedictorian — Khantrast](https://open.spotify.com/track/4LefY4lGghbXd62dnD7qoz)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048519a1a952b7616b7681c3ec3b5" height="16" alt=""/> [DONNY DARKO (FEAT. LIL UZI VERT) — Don Toliver, Lil Uzi Vert](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n)
 <!--STATS:END-->
 
 </div>

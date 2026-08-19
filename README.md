@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851e93d951b496ab88b4644febd" height="16" alt=""/> [Move Tha Work — 408 Darwin](https://open.spotify.com/track/3Yky1UvralDL28E4xpfYLb)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851d7e1c68ed8e464b03095afda" height="16" alt=""/> [20 Min — Lil Uzi Vert](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng)
 <!--STATS:END-->
 
 </div>

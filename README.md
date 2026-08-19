@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517b1b6f41c1645af9757d5616" height="16" alt=""/> [Babydoll — Dominic Fike](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048515631546bdc010851494d88ba" height="16" alt=""/> [Hootie Frutti — KATSEYE](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD)
 <!--STATS:END-->
 
 </div>

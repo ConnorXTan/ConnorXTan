@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e55a3924103c132fd3fdc480" height="16" alt=""/> [D1 — Lil Tecca](https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851857ffe0b5ad52bf5625572db" height="16" alt=""/> [Drunk And Nasty (feat. Sharc) — Pi’erre Bourne, Sharc](https://open.spotify.com/track/1lAJUXyP5S2dUYHer1xBas)
 <!--STATS:END-->
 
 </div>

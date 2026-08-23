@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851962ae887d37699fdaa788dac" height="16" alt=""/> [LIL DEMON — Future](https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048513e5cbf3b3ac5905cb68377d5" height="16" alt=""/> [Thank You — Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
 <!--STATS:END-->
 
 </div>

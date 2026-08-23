@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048513e5cbf3b3ac5905cb68377d5" height="16" alt=""/> [Thank You — Dido](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851857ffe0b5ad52bf5625572db" height="16" alt=""/> [Drunk And Nasty (feat. Sharc) — Pi’erre Bourne, Sharc](https://open.spotify.com/track/1lAJUXyP5S2dUYHer1xBas)
 <!--STATS:END-->
 
 </div>

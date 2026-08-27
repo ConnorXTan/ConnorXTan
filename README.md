@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851962ae887d37699fdaa788dac" height="16" alt=""/> [LIL DEMON — Future](https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048512e53f24f1f65df5eaaca1ffe" height="16" alt=""/> [Bubbly (with Drake & Travis Scott) — Young Thug, Drake, Travis Scott](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui)
 <!--STATS:END-->
 
 </div>

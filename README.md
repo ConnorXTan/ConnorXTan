@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e27e2668210bc8041e537329" height="16" alt=""/> [dinner date — kuala](https://open.spotify.com/track/68LeaFkVDQafUIjrBCQQtd)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048518649220140846c7edf7f1978" height="16" alt=""/> [Took Her To The O — King Von](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW)
 <!--STATS:END-->
 
 </div>

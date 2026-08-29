@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851ad08f4b38efbff0c0da0f252" height="16" alt=""/> [Running Up That Hill (A Deal With God) — Kate Bush](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485177d12d18045a0cb69e3d687a" height="16" alt=""/> [missin something — Zach Templar](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl)
 <!--STATS:END-->
 
 </div>

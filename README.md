@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048518649220140846c7edf7f1978" height="16" alt=""/> [Took Her To The O — King Von](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485156bf918dc517050ebf113d22" height="16" alt=""/> [EA (feat. 21 Savage) — Young Nudy, 21 Savage](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s)
 <!--STATS:END-->
 
 </div>

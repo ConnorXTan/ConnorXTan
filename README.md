@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485177d12d18045a0cb69e3d687a" height="16" alt=""/> [missin something — Zach Templar](https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048518521ba13da7cec67412a86f7" height="16" alt=""/> [Daydream — ay3demi, thekid.ACE](https://open.spotify.com/track/515UNMgW9krZGvvVnQ8XuD)
 <!--STATS:END-->
 
 </div>

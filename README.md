@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e5f0ce95616d527ce5f08421" height="16" alt=""/> [on me — ay3demi](https://open.spotify.com/track/4C9or1pN1F6QPv7oJmwW9s)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c0e4cedd7596644574d3a999" height="16" alt=""/> [Love Across The Bar — Rio Sterling](https://open.spotify.com/track/694ktS3ZyG49m8LAMrZft3)
 <!--STATS:END-->
 
 </div>

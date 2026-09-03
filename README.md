@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851a05a849e8c3d0966cf1f6790" height="16" alt=""/> [DONTTRUSTME — 3OH!3](https://open.spotify.com/track/5jzX4dWVQeBTtfBaXnMRt5)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b5f27d3612d636e79dbdf284" height="16" alt=""/> [GGEZ — Kaien Nuen, SUGAR, M.Sasuke](https://open.spotify.com/track/6iwsWcvqCQcj025NqCeyFS)
 <!--STATS:END-->
 
 </div>

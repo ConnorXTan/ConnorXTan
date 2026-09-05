@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e806d0b86a15ac6b55267c6a" height="16" alt=""/> [close with desires (right person wrong timing) — Teo Glacier](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048514a869e0f6cdb25ac69466fcd" height="16" alt=""/> [trouble — Zach Templar](https://open.spotify.com/track/4ndWW92ypHiW04DhG03aJk)
 <!--STATS:END-->
 
 </div>

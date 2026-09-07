@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048516c0177e9b0c53a7587979ca2" height="16" alt=""/> [Hex — 80purppp](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517fb628fda119ba96280f883c" height="16" alt=""/> [Is there free breakfast here? — Hotel Ugly](https://open.spotify.com/track/30jui3PqevssdIVpjEWM38)
 <!--STATS:END-->
 
 </div>

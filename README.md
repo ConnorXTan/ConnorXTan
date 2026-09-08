@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517465bef53d9e3a27c63c7a1d" height="16" alt=""/> [Japanese Denim — Daniel Caesar](https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048511e18ebd56a04963e87221289" height="16" alt=""/> [Twirlanta — 22Gz](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e8db92cad1a2c78473a866ef" height="16" alt=""/> [花になって - Be a flower — Ryokuoushoku Shakai](https://open.spotify.com/track/0rtlVeGmIPNoz6ztPuM329)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048511e18ebd56a04963e87221289" height="16" alt=""/> [Twirlanta — 22Gz](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh)
 <!--STATS:END-->
 
 </div>

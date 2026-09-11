@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048513bda019c02edcbacd8b22417" height="16" alt=""/> [Stephanie — Nafeesisboujee](https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048519756d02121c271f766b2b4fe" height="16" alt=""/> [Soleil — 80purppp](https://open.spotify.com/track/4XWHfXGE0MvK1qMjpSbTiB)
 <!--STATS:END-->
 
 </div>

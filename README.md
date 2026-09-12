@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851e37fa30574a8964ef73efd1d" height="16" alt=""/> [give me your heart — Zach Templar](https://open.spotify.com/track/1HA9DQwoQMcrkxh4oykvTr)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485142a0986175ff67d0eb92986f" height="16" alt=""/> [I Want U To Myself — okay coleman!](https://open.spotify.com/track/3bbZtkmyBJcibe8Xg101ti)
 <!--STATS:END-->
 
 </div>

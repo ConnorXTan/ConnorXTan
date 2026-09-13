@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048511e18ebd56a04963e87221289" height="16" alt=""/> [Twirlanta — 22Gz](https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048513a5f4a8610e80523151d9154" height="16" alt=""/> [I'll Wonder When — Sarah Lola](https://open.spotify.com/track/4scn47y2xwL3xEgU1iQ8bS)
 <!--STATS:END-->
 
 </div>

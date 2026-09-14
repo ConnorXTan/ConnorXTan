@@ -14,7 +14,7 @@
         null,
         null,
         null,
-        null,
+        "R",
         null,
         null,
         null
@@ -56,8 +56,8 @@
         "R"
       ]
     ],
-    "turn": "R",
-    "last_player": "aarontran321",
+    "turn": "Y",
+    "last_player": "PLIAN78",
     "last_col": 3,
     "moves": [
       {
@@ -119,6 +119,11 @@
         "col": 4,
         "color": "Y",
         "user": "aarontran321"
+      },
+      {
+        "col": 4,
+        "color": "R",
+        "user": "PLIAN78"
       }
     ],
     "win_cells": []
@@ -130,5 +135,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 11
+  "seq": 12
 }

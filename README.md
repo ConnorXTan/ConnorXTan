@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851420091caf71ffdb4bebe3d3b" height="16" alt=""/> [Color Your Night — Chewie Melodies, Pealeaf](https://open.spotify.com/track/7sDb2MqZdvulzRavioCCQe)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851420091caf71ffdb4bebe3d3b" height="16" alt=""/> [Color Your Night — Chewie Melodies, Pealeaf](https://open.spotify.com/track/7sDb2MqZdvulzRavioCCQe)
 <!--STATS:END-->
 
 </div>

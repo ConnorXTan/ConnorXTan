@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851a1157326ea965cd09785da21" height="16" alt=""/> [The King's Affirmation — Iniko](https://open.spotify.com/track/4RLHj4aXHBZIWPBsXqEGgO)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851d5d11b6ac4242aaa41c8be69" height="16" alt=""/> [ONLY — LEEHI](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI)
 <!--STATS:END-->
 
 </div>

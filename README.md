@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358" height="16" alt=""/> [Feel Good Inc. — Gorillaz, De La Soul](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f7ed017218dd93e3ecff94d2" height="16" alt=""/> [Comissions — ay3demi, dray tyg](https://open.spotify.com/track/1Yc6dV6laHbvOKkmDtwZNx)
 <!--STATS:END-->
 
 </div>

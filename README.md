@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851824890cce227d612f86d1a0c" height="16" alt=""/> [Every Kind Of Way — Rocco](https://open.spotify.com/track/5muvFaNe0v0WbW3ZofgikY)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e" height="16" alt=""/> [SaWaDiKa — LISA](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa)
 <!--STATS:END-->
 
 </div>

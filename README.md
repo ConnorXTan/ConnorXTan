@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e" height="16" alt=""/> [SaWaDiKa — LISA](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d0000485149315877dd3a60e672421bb9" height="16" alt=""/> [Friends — ay3demi, heyysevy](https://open.spotify.com/track/3CMObDsdwAnoXR8ARNJRgi)
 <!--STATS:END-->
 
 </div>

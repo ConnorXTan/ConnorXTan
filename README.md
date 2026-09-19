@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485142a0986175ff67d0eb92986f" height="16" alt=""/> [I Want U To Myself — okay coleman!](https://open.spotify.com/track/3bbZtkmyBJcibe8Xg101ti)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048511a0d446b811ad07512eb19df" height="16" alt=""/> [Poison — Brent Faiyaz](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe)
 <!--STATS:END-->
 
 </div>

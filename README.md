@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048511a0d446b811ad07512eb19df" height="16" alt=""/> [Poison — Brent Faiyaz](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048512506b29a57194007e5e6ae68" height="16" alt=""/> [WE ON GO II (feat. Denzel Curry) — BIA, A$AP Ferg, Denzel Curry](https://open.spotify.com/track/4M0jSlN1MOaVRbA3Shr0FV)
 <!--STATS:END-->
 
 </div>

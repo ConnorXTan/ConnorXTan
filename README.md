@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048511a0d446b811ad07512eb19df" height="16" alt=""/> [Poison — Brent Faiyaz](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c0e4cedd7596644574d3a999" height="16" alt=""/> [Love Across The Bar — Rio Sterling](https://open.spotify.com/track/694ktS3ZyG49m8LAMrZft3)
 <!--STATS:END-->
 
 </div>

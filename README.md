@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b46937ad0cc3e5eca50ab1f3" height="16" alt=""/> [Distractions — Haiti Babii](https://open.spotify.com/track/1HFGwhGuWJifn9cMidCyal)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485173ae1df692b540f56d14617e" height="16" alt=""/> [SaWaDiKa — LISA](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa)
 <!--STATS:END-->
 
 </div>

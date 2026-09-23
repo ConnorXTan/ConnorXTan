@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048518280cc0742ecadd06889d164" height="16" alt=""/> [Breathe — Yeat](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851307323fa550564b0201b1d76" height="16" alt=""/> [No Pole — Don Toliver](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz)
 <!--STATS:END-->
 
 </div>

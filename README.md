@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851307323fa550564b0201b1d76" height="16" alt=""/> [No Pole — Don Toliver](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c0f21c3a44eaac90d988fb6a" height="16" alt=""/> [Be On — Da Getta, Enphamus](https://open.spotify.com/track/2ykcSjGvHFFGEmbZqoqUd6)
 <!--STATS:END-->
 
 </div>

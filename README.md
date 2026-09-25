@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e27e2668210bc8041e537329" height="16" alt=""/> [dinner date — kuala](https://open.spotify.com/track/68LeaFkVDQafUIjrBCQQtd)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b847b541f19a1c8cd21d1a65" height="16" alt=""/> [what if we? — Emi Choi](https://open.spotify.com/track/1b4EDa9QUbZEmORq0F3oLh)
 <!--STATS:END-->
 
 </div>

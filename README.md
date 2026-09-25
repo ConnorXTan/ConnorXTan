@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c0f21c3a44eaac90d988fb6a" height="16" alt=""/> [Be On — Da Getta, Enphamus](https://open.spotify.com/track/2ykcSjGvHFFGEmbZqoqUd6)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e27e2668210bc8041e537329" height="16" alt=""/> [dinner date — kuala](https://open.spotify.com/track/68LeaFkVDQafUIjrBCQQtd)
 <!--STATS:END-->
 
 </div>

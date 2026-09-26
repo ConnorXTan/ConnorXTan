@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f0c12c7831413fddf24a1c1a" height="16" alt=""/> [Dreams — Aaron May](https://open.spotify.com/track/7Dk5eF06JZ3NX8YJsMiQl6)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048518787955a8224c80143da3266" height="16" alt=""/> [Onna Come Up — Lil Eazzyy](https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo)
 <!--STATS:END-->
 
 </div>

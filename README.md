@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851fa8534ce6bed4fb312b2c335" height="16" alt=""/> [WE ON GO — BIA](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f0c12c7831413fddf24a1c1a" height="16" alt=""/> [Let Go — Aaron May](https://open.spotify.com/track/2axiRrUWmlFUKmPzDsjjzg)
 <!--STATS:END-->
 
 </div>

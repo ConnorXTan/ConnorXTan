@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f0c12c7831413fddf24a1c1a" height="16" alt=""/> [Let Go — Aaron May](https://open.spotify.com/track/2axiRrUWmlFUKmPzDsjjzg)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048517241dc083f907f8eb469b89d" height="16" alt=""/> [Lavender Town — Riovaz](https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2)
 <!--STATS:END-->
 
 </div>

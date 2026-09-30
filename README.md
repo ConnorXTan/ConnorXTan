@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851355b8aaad8a6523cac554878" height="16" alt=""/> [mr popular — predayed](https://open.spotify.com/track/7tNTMVkB5TbM6DgKhcZs5r)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851bd69bbde4aeee723d6d08058" height="16" alt=""/> [Did It Again — Lil Tecca](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj)
 <!--STATS:END-->
 
 </div>

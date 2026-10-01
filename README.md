@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048514ae22ccf1ee264de7d464978" height="16" alt=""/> [Chandelier — Will Paquin](https://open.spotify.com/track/4ENgK9ehJ9PxxrjY2iEH1j)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485168b647e4976494925778007f" height="16" alt=""/> [Killshot - Slowed + Reverb — Magdalena Bay](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO)
 <!--STATS:END-->
 
 </div>

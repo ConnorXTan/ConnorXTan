@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e0436c2da0c63c4b5fec22fa" height="16" alt=""/> [Jane! — The Long Faces](https://open.spotify.com/track/1VXu0l60UkpybzcyX38pzc)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048514ae22ccf1ee264de7d464978" height="16" alt=""/> [Chandelier — Will Paquin](https://open.spotify.com/track/4ENgK9ehJ9PxxrjY2iEH1j)
 <!--STATS:END-->
 
 </div>

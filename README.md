@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851c21555708975ad94b1faf422" height="16" alt=""/> [bad — wave to earth](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485171deeeea270e4b26e53059a7" height="16" alt=""/> [one day — Nevi](https://open.spotify.com/track/5Zlz9mzW6eAynvfmym10X6)
 <!--STATS:END-->
 
 </div>

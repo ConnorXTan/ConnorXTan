@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851564430acfa6608ea3bac3e6e" height="16" alt=""/> [SO WHAT? — RC AVENUE](https://open.spotify.com/track/4BcOMwpOL9qJJZZLl3GVkU)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485148d0c47016a31d8ba635a7b8" height="16" alt=""/> [Miniskirt — tonytonychopper999, miyuriel](https://open.spotify.com/track/2QXxq0ildQz9qOAxJF21oa)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485148d0c47016a31d8ba635a7b8" height="16" alt=""/> [Miniskirt — tonytonychopper999, miyuriel](https://open.spotify.com/track/2QXxq0ildQz9qOAxJF21oa)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048517c68face1dc58127f3a7b1cc" height="16" alt=""/> [Superpowers — Daniel Caesar](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu)
 <!--STATS:END-->
 
 </div>

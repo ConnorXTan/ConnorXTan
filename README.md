@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048510c8ac83035e9588e8ad34b90" height="16" alt=""/> [505 — Arctic Monkeys](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851564430acfa6608ea3bac3e6e" height="16" alt=""/> [SO WHAT? — RC AVENUE](https://open.spotify.com/track/4BcOMwpOL9qJJZZLl3GVkU)
 <!--STATS:END-->
 
 </div>

@@ -40,6 +40,8 @@ LEFT, TOP = 30, 20      # room for weekday / month labels
 BOTTOM = 52             # room for legend + total
 TICK_MS = 25            # counter update granularity
 COUNT_SPREAD_MS = 400   # each day's count is added over this much of its rise
+EVEN_SHARE = 0.5        # part of the count that advances evenly per column, so
+                        # it moves from the first one even through quiet months
 MONTHS = ["jan", "feb", "mar", "apr", "may", "jun",
           "jul", "aug", "sep", "oct", "nov", "dec"]
 
@@ -193,11 +195,13 @@ def render(cal, theme):
     grid_mid = LEFT + (n_weeks * STEP - GAP) / 2
     num_right = grid_mid - line_w / 2 + num_w
     total_y = base_y + 28
-    end_ms = max((d for d, _ in landings), default=0) + COUNT_SPREAD_MS
+    end_ms = delay + COUNT_SPREAD_MS  # last cell's delay from the loop above
+    day_total = sum(c for _, c in landings) or 1
     frames = []
     for at in range(0, end_ms + TICK_MS, TICK_MS):
-        value = int(sum(c * min(max((at - d) / COUNT_SPREAD_MS, 0), 1)
-                        for d, c in landings))
+        landed = sum(c * min(max((at - d) / COUNT_SPREAD_MS, 0), 1)
+                     for d, c in landings) / day_total
+        value = int(total * (EVEN_SHARE * at / end_ms + (1 - EVEN_SHARE) * landed))
         if not frames or value != frames[-1][1]:
             frames.append((at, value))
     frames[-1] = (frames[-1][0], total)

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048513feee87ba987459cd681b071" height="16" alt=""/> [Teardrops — NEIL FRANCES](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ad08f4b38efbff0c0da0f252" height="16" alt=""/> [Running Up That Hill (A Deal With God) — Kate Bush](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO)
 <!--STATS:END-->
 
 </div>

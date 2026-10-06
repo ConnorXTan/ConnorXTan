@@ -3,9 +3,9 @@
 
 Fetches the last year of contributions via the GitHub GraphQL API and writes
 assets/contribs-{light,dark}.svg. Each cell animates in with a per-column
-delay, producing a left-to-right wave reveal when the profile loads, then
-the year's total counts up underneath. Pure CSS — no JS — so it plays
-inside GitHub's camo image proxy.
+delay, producing a left-to-right wave reveal when the profile loads, while
+the year's total counts up underneath in step with it. Pure CSS — no JS —
+so it plays inside GitHub's camo image proxy.
 
 Token comes from $GITHUB_TOKEN (Actions) or `gh auth token` (local).
 """
@@ -38,7 +38,8 @@ CELL, GAP = 11, 3
 STEP = CELL + GAP
 LEFT, TOP = 30, 20      # room for weekday / month labels
 BOTTOM = 52             # room for legend + total
-COUNT_FRAMES, COUNT_MS = 30, 1200  # total ticks up after the wave
+TICK_MS = 25            # counter update granularity
+COUNT_SPREAD_MS = 400   # each day's count is added over this much of its rise
 MONTHS = ["jan", "feb", "mar", "apr", "may", "jun",
           "jul", "aug", "sep", "oct", "nov", "dec"]
 
@@ -86,7 +87,6 @@ def render(cal, theme):
     w = LEFT + n_weeks * STEP - GAP + 10
     h = TOP + 7 * STEP - GAP + BOTTOM
     wave_end_ms = n_weeks * 75 + 6 * 12 + 700  # last cell's delay + duration
-    frame_ms = COUNT_MS // COUNT_FRAMES
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
@@ -107,16 +107,14 @@ def render(cal, theme):
 }}
 .n {{
   opacity: 0;
-  animation: on {frame_ms}ms linear;
+  animation: on 1ms linear;
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 16px;
   font-weight: 700;
   fill: {t["ramp"][4]};
 }}
 .nf {{
-  animation: pop .45s cubic-bezier(.22,.61,.36,1) forwards;
-  transform-box: fill-box;
-  transform-origin: right center;
+  animation-fill-mode: forwards;
 }}
 .lbl {{
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -129,10 +127,6 @@ def render(cal, theme):
 }}
 @keyframes on {{
   from, to {{ opacity: 1; }}
-}}
-@keyframes pop {{
-  from {{ opacity: 1; transform: scale(1.15); }}
-  to   {{ opacity: 1; transform: none; }}
 }}
 @keyframes fade {{
   from {{ opacity: 0; }}
@@ -163,12 +157,15 @@ def render(cal, theme):
         parts.append(f'<text class="lbl" x="0" y="{y}">{label}</text>')
 
     # cells, wave delay left-to-right with a slight downward ripple
+    landings = []  # (delay, count) for each day that adds to the counter
     for wi, week in enumerate(weeks):
         for day in week["contributionDays"]:
             x = LEFT + wi * STEP
             y = TOP + day["weekday"] * STEP
             fill = t["ramp"][LEVELS.get(day["contributionLevel"], 0)]
             delay = wi * 75 + day["weekday"] * 12
+            if day["contributionCount"]:
+                landings.append((delay, day["contributionCount"]))
             parts.append(
                 f'<rect class="c" x="{x}" y="{y}" width="{CELL}" height="{CELL}" '
                 f'rx="2.5" fill="{fill}" style="animation-delay:{delay}ms"/>'
@@ -186,9 +183,9 @@ def render(cal, theme):
         )
     parts.append(f'<text class="t" x="{legend_x + 30 + 5 * STEP + 4}" y="{base_y}">more</text>')
 
-    # total, centered underneath: the number counts up once the wave lands.
-    # Each frame is its own <text>, visible only for its slice of the count;
-    # the last one sticks. Widths assume a ~0.6em monospace advance.
+    # total, centered underneath, counting up as each day's cell rises in.
+    # Each value is its own <text>, visible only until the next one takes
+    # over; the last sticks. Widths assume a ~0.6em monospace advance.
     total = cal["totalContributions"]
     label = f"contributions in {cal['year']}"
     num_w = len(f"{total:,}") * 16 * 0.6
@@ -196,18 +193,27 @@ def render(cal, theme):
     grid_mid = LEFT + (n_weeks * STEP - GAP) / 2
     num_right = grid_mid - line_w / 2 + num_w
     total_y = base_y + 28
-    for i in range(COUNT_FRAMES):
-        p = (i + 1) / COUNT_FRAMES
-        value = round(total * (1 - (1 - p) ** 3))  # ease-out
-        last = i == COUNT_FRAMES - 1
+    end_ms = max((d for d, _ in landings), default=0) + COUNT_SPREAD_MS
+    frames = []
+    for at in range(0, end_ms + TICK_MS, TICK_MS):
+        value = int(sum(c * min(max((at - d) / COUNT_SPREAD_MS, 0), 1)
+                        for d, c in landings))
+        if not frames or value != frames[-1][1]:
+            frames.append((at, value))
+    frames[-1] = (frames[-1][0], total)
+    for i, (start, value) in enumerate(frames):
+        if i == len(frames) - 1:
+            cls, timing = "n nf", f"animation-delay:{start}ms"
+        else:
+            cls = "n"
+            timing = f"animation-delay:{start}ms;animation-duration:{frames[i + 1][0] - start}ms"
         parts.append(
-            f'<text class="n{" nf" if last else ""}" x="{num_right:.1f}" y="{total_y}" '
-            f'text-anchor="end" style="animation-delay:{wave_end_ms + i * frame_ms}ms">'
-            f'{value:,}</text>'
+            f'<text class="{cls}" x="{num_right:.1f}" y="{total_y}" '
+            f'text-anchor="end" style="{timing}">{value:,}</text>'
         )
     parts.append(
         f'<text class="t" x="{num_right + 6:.1f}" y="{total_y}" '
-        f'style="font-size:12px">{label}</text>'
+        f'style="font-size:12px;animation-delay:0ms">{label}</text>'
     )
 
     parts.append("</svg>")

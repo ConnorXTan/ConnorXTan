@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048517c68face1dc58127f3a7b1cc" height="16" alt=""/> [Superpowers — Daniel Caesar](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048513feee87ba987459cd681b071" height="16" alt=""/> [Teardrops — NEIL FRANCES](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm)
 <!--STATS:END-->
 
 </div>

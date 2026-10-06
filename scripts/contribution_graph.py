@@ -39,10 +39,10 @@ STEP = CELL + GAP
 LEFT, TOP = 30, 20      # room for weekday / month labels
 BOTTOM = 52             # room for legend + total
 TICK_MS = 25            # counter update granularity
-COUNT_SPREAD_MS = 400   # each day's count is added over this much of its rise
+RISE_MS = 700           # each cell's rise; a day's count is added over it
 EVEN_SHARE = 0.5        # part of the count that advances evenly per column, so
                         # it moves from the first one even through quiet months
-TAIL_SHARE, TAIL_MS = 0.18, 1800  # last stretch of the count eases in after the wave
+EASE_POW = 3            # ease-out on the count: fast start, slow finish
 MONTHS = ["jan", "feb", "mar", "apr", "may", "jun",
           "jul", "aug", "sep", "oct", "nov", "dec"]
 
@@ -89,7 +89,7 @@ def render(cal, theme):
     n_weeks = len(weeks)
     w = LEFT + n_weeks * STEP - GAP + 10
     h = TOP + 7 * STEP - GAP + BOTTOM
-    wave_end_ms = n_weeks * 75 + 6 * 12 + 700  # last cell's delay + duration
+    wave_end_ms = n_weeks * 75 + 6 * 12 + RISE_MS  # last cell's delay + duration
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
@@ -98,7 +98,7 @@ def render(cal, theme):
   opacity: 0;
   transform-box: fill-box;
   transform-origin: center;
-  animation: rise .7s cubic-bezier(.22,.61,.36,1) both;
+  animation: rise {RISE_MS}ms cubic-bezier(.22,.61,.36,1) both;
 }}
 .t {{
   opacity: 0;
@@ -196,19 +196,14 @@ def render(cal, theme):
     grid_mid = LEFT + (n_weeks * STEP - GAP) / 2
     num_right = grid_mid - line_w / 2 + num_w
     total_y = base_y + 28
-    end_ms = delay + COUNT_SPREAD_MS  # last cell's delay from the loop above
+    end_ms = delay + RISE_MS  # the last cell finishing (delay from the loop above)
     day_total = sum(c for _, c in landings) or 1
     frames = []
-    for at in range(0, end_ms + TAIL_MS + TICK_MS, TICK_MS):
-        if at <= end_ms:
-            landed = sum(c * min(max((at - d) / COUNT_SPREAD_MS, 0), 1)
-                         for d, c in landings) / day_total
-            done = EVEN_SHARE * at / end_ms + (1 - EVEN_SHARE) * landed
-            done *= 1 - TAIL_SHARE
-        else:  # slow down into the final number
-            u = min((at - end_ms) / TAIL_MS, 1)
-            done = 1 - TAIL_SHARE * (1 - u) ** 3
-        value = int(total * done)
+    for at in range(0, end_ms + TICK_MS, TICK_MS):
+        landed = sum(c * min(max((at - d) / RISE_MS, 0), 1)
+                     for d, c in landings) / day_total
+        progress = min(EVEN_SHARE * at / end_ms + (1 - EVEN_SHARE) * landed, 1)
+        value = int(total * (1 - (1 - progress) ** EASE_POW))
         if not frames or value != frames[-1][1]:
             frames.append((at, value))
     frames[-1] = (frames[-1][0], total)

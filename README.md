@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b8682ef09d46ca6d37e26a3b" height="16" alt=""/> [Medusa — Zak Azoury](https://open.spotify.com/track/5Ij2rHvymdJwxs5B8Bi21I)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048513e2c1f8bb3f146186e2a1dc5" height="16" alt=""/> [NOBLE — F3miii](https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv)
 <!--STATS:END-->
 
 </div>

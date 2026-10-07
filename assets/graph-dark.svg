@@ -235,7 +235,7 @@
 <rect class="c" x="380" y="48" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1899ms"/>
 <rect class="c" x="380" y="62" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1911ms"/>
 <rect class="c" x="380" y="76" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1923ms"/>
-<rect class="c" x="380" y="90" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:1935ms"/>
+<rect class="c" x="380" y="90" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1935ms"/>
 <rect class="c" x="380" y="104" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:1947ms"/>
 <rect class="c" x="394" y="20" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:1950ms"/>
 <rect class="c" x="394" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:1962ms"/>
@@ -261,7 +261,7 @@
 <rect class="c" x="436" y="20" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2175ms"/>
 <rect class="c" x="436" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2187ms"/>
 <rect class="c" x="436" y="48" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2199ms"/>
-<rect class="c" x="436" y="62" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay:2211ms"/>
+<rect class="c" x="436" y="62" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:2211ms"/>
 <rect class="c" x="436" y="76" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2223ms"/>
 <rect class="c" x="436" y="90" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2235ms"/>
 <rect class="c" x="436" y="104" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:2247ms"/>
@@ -330,7 +330,7 @@
 <rect class="c" x="562" y="104" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:2922ms"/>
 <rect class="c" x="576" y="20" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2925ms"/>
 <rect class="c" x="576" y="34" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2937ms"/>
-<rect class="c" x="576" y="48" width="11" height="11" rx="2.5" fill="#26a641" style="animation-delay:2949ms"/>
+<rect class="c" x="576" y="48" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:2949ms"/>
 <rect class="c" x="576" y="62" width="11" height="11" rx="2.5" fill="#006d32" style="animation-delay:2961ms"/>
 <rect class="c" x="576" y="76" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2973ms"/>
 <rect class="c" x="576" y="90" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:2985ms"/>
@@ -338,7 +338,7 @@
 <rect class="c" x="590" y="20" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:3000ms"/>
 <rect class="c" x="590" y="34" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay:3012ms"/>
 <rect class="c" x="590" y="48" width="11" height="11" rx="2.5" fill="#39d353" style="animation-delay:3024ms"/>
-<rect class="c" x="590" y="62" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:3036ms"/>
+<rect class="c" x="590" y="62" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:3036ms"/>
 <text class="t" x="471" y="132">less</text>
 <rect class="c" x="501" y="123" width="11" height="11" rx="2.5" fill="#161b22" style="animation-delay:3847ms"/>
 <rect class="c" x="515" y="123" width="11" height="11" rx="2.5" fill="#0e4429" style="animation-delay:3847ms"/>
@@ -349,139 +349,139 @@
 <text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:0ms;animation-duration:25ms">0</text>
 <text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:25ms;animation-duration:25ms">14</text>
 <text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:50ms;animation-duration:25ms">29</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:75ms;animation-duration:25ms">43</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:100ms;animation-duration:25ms">58</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:125ms;animation-duration:25ms">72</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:150ms;animation-duration:25ms">86</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:175ms;animation-duration:25ms">100</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:200ms;animation-duration:25ms">114</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:225ms;animation-duration:25ms">128</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:250ms;animation-duration:25ms">142</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:275ms;animation-duration:25ms">156</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:300ms;animation-duration:25ms">169</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:325ms;animation-duration:25ms">183</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:350ms;animation-duration:25ms">196</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:375ms;animation-duration:25ms">210</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:400ms;animation-duration:25ms">223</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:425ms;animation-duration:25ms">236</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:450ms;animation-duration:25ms">249</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:475ms;animation-duration:25ms">262</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:500ms;animation-duration:25ms">275</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:525ms;animation-duration:25ms">288</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:550ms;animation-duration:25ms">300</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:575ms;animation-duration:25ms">313</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:600ms;animation-duration:25ms">326</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:625ms;animation-duration:25ms">338</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:650ms;animation-duration:25ms">350</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:675ms;animation-duration:25ms">362</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:700ms;animation-duration:25ms">375</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:725ms;animation-duration:25ms">387</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:750ms;animation-duration:25ms">399</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:775ms;animation-duration:25ms">411</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:800ms;animation-duration:25ms">422</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:825ms;animation-duration:25ms">434</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:850ms;animation-duration:25ms">446</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:875ms;animation-duration:25ms">458</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:900ms;animation-duration:25ms">469</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:925ms;animation-duration:25ms">481</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:950ms;animation-duration:25ms">493</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:975ms;animation-duration:25ms">505</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1000ms;animation-duration:25ms">517</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1025ms;animation-duration:25ms">529</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1050ms;animation-duration:25ms">541</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1075ms;animation-duration:25ms">552</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1100ms;animation-duration:25ms">564</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1125ms;animation-duration:25ms">575</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1150ms;animation-duration:25ms">586</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1175ms;animation-duration:25ms">598</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1200ms;animation-duration:25ms">609</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1225ms;animation-duration:25ms">620</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1250ms;animation-duration:25ms">631</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1275ms;animation-duration:25ms">642</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1300ms;animation-duration:25ms">653</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1325ms;animation-duration:25ms">664</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1350ms;animation-duration:25ms">676</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1375ms;animation-duration:25ms">688</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1400ms;animation-duration:25ms">700</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1425ms;animation-duration:25ms">711</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1450ms;animation-duration:25ms">723</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1475ms;animation-duration:25ms">735</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1500ms;animation-duration:25ms">746</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1525ms;animation-duration:25ms">758</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1550ms;animation-duration:25ms">770</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1575ms;animation-duration:25ms">783</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1600ms;animation-duration:25ms">796</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1625ms;animation-duration:25ms">810</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1650ms;animation-duration:25ms">824</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1675ms;animation-duration:25ms">839</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1700ms;animation-duration:25ms">855</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1725ms;animation-duration:25ms">872</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1750ms;animation-duration:25ms">889</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1775ms;animation-duration:25ms">907</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1800ms;animation-duration:25ms">926</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1825ms;animation-duration:25ms">945</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1850ms;animation-duration:25ms">964</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1875ms;animation-duration:25ms">984</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1900ms;animation-duration:25ms">1,003</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1925ms;animation-duration:25ms">1,022</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1950ms;animation-duration:25ms">1,040</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1975ms;animation-duration:25ms">1,059</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2000ms;animation-duration:25ms">1,077</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2025ms;animation-duration:25ms">1,095</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2050ms;animation-duration:25ms">1,112</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2075ms;animation-duration:25ms">1,128</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2100ms;animation-duration:25ms">1,144</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2125ms;animation-duration:25ms">1,160</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2150ms;animation-duration:25ms">1,175</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2175ms;animation-duration:25ms">1,190</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2200ms;animation-duration:25ms">1,205</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2225ms;animation-duration:25ms">1,220</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2250ms;animation-duration:25ms">1,235</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2275ms;animation-duration:25ms">1,249</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2300ms;animation-duration:25ms">1,262</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2325ms;animation-duration:25ms">1,274</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2350ms;animation-duration:25ms">1,285</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2375ms;animation-duration:25ms">1,296</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2400ms;animation-duration:25ms">1,306</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2425ms;animation-duration:25ms">1,317</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2450ms;animation-duration:25ms">1,327</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2475ms;animation-duration:25ms">1,336</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2500ms;animation-duration:25ms">1,344</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2525ms;animation-duration:25ms">1,352</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2550ms;animation-duration:25ms">1,360</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2575ms;animation-duration:25ms">1,367</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2600ms;animation-duration:25ms">1,374</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2625ms;animation-duration:25ms">1,380</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2650ms;animation-duration:25ms">1,386</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2675ms;animation-duration:25ms">1,392</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2700ms;animation-duration:25ms">1,398</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2725ms;animation-duration:25ms">1,403</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2750ms;animation-duration:25ms">1,407</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2775ms;animation-duration:25ms">1,412</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2800ms;animation-duration:25ms">1,416</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2825ms;animation-duration:25ms">1,420</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2850ms;animation-duration:25ms">1,424</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2875ms;animation-duration:25ms">1,427</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2900ms;animation-duration:25ms">1,430</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2925ms;animation-duration:25ms">1,434</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2950ms;animation-duration:25ms">1,437</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2975ms;animation-duration:25ms">1,440</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3000ms;animation-duration:25ms">1,443</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3025ms;animation-duration:25ms">1,446</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3050ms;animation-duration:25ms">1,449</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3075ms;animation-duration:25ms">1,451</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3100ms;animation-duration:25ms">1,454</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3125ms;animation-duration:25ms">1,456</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3150ms;animation-duration:25ms">1,457</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3175ms;animation-duration:25ms">1,459</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3200ms;animation-duration:25ms">1,460</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3225ms;animation-duration:25ms">1,461</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3250ms;animation-duration:25ms">1,462</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3275ms;animation-duration:25ms">1,463</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3300ms;animation-duration:25ms">1,464</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3325ms;animation-duration:50ms">1,465</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3375ms;animation-duration:75ms">1,466</text>
-<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3450ms;animation-duration:300ms">1,467</text>
-<text class="n nf" x="260.9" y="160" text-anchor="end" style="animation-delay:3750ms">1,468</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:75ms;animation-duration:25ms">44</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:100ms;animation-duration:25ms">59</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:125ms;animation-duration:25ms">73</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:150ms;animation-duration:25ms">88</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:175ms;animation-duration:25ms">102</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:200ms;animation-duration:25ms">117</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:225ms;animation-duration:25ms">131</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:250ms;animation-duration:25ms">145</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:275ms;animation-duration:25ms">159</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:300ms;animation-duration:25ms">173</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:325ms;animation-duration:25ms">187</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:350ms;animation-duration:25ms">200</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:375ms;animation-duration:25ms">214</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:400ms;animation-duration:25ms">227</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:425ms;animation-duration:25ms">241</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:450ms;animation-duration:25ms">254</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:475ms;animation-duration:25ms">267</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:500ms;animation-duration:25ms">281</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:525ms;animation-duration:25ms">294</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:550ms;animation-duration:25ms">307</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:575ms;animation-duration:25ms">319</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:600ms;animation-duration:25ms">332</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:625ms;animation-duration:25ms">345</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:650ms;animation-duration:25ms">357</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:675ms;animation-duration:25ms">370</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:700ms;animation-duration:25ms">382</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:725ms;animation-duration:25ms">395</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:750ms;animation-duration:25ms">407</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:775ms;animation-duration:25ms">419</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:800ms;animation-duration:25ms">431</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:825ms;animation-duration:25ms">443</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:850ms;animation-duration:25ms">455</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:875ms;animation-duration:25ms">467</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:900ms;animation-duration:25ms">479</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:925ms;animation-duration:25ms">491</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:950ms;animation-duration:25ms">503</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:975ms;animation-duration:25ms">516</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1000ms;animation-duration:25ms">528</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1025ms;animation-duration:25ms">540</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1050ms;animation-duration:25ms">552</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1075ms;animation-duration:25ms">563</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1100ms;animation-duration:25ms">575</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1125ms;animation-duration:25ms">587</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1150ms;animation-duration:25ms">598</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1175ms;animation-duration:25ms">610</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1200ms;animation-duration:25ms">621</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1225ms;animation-duration:25ms">632</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1250ms;animation-duration:25ms">644</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1275ms;animation-duration:25ms">655</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1300ms;animation-duration:25ms">666</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1325ms;animation-duration:25ms">678</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1350ms;animation-duration:25ms">690</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1375ms;animation-duration:25ms">702</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1400ms;animation-duration:25ms">713</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1425ms;animation-duration:25ms">725</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1450ms;animation-duration:25ms">737</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1475ms;animation-duration:25ms">749</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1500ms;animation-duration:25ms">761</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1525ms;animation-duration:25ms">773</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1550ms;animation-duration:25ms">785</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1575ms;animation-duration:25ms">798</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1600ms;animation-duration:25ms">811</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1625ms;animation-duration:25ms">825</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1650ms;animation-duration:25ms">840</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1675ms;animation-duration:25ms">855</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1700ms;animation-duration:25ms">871</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1725ms;animation-duration:25ms">888</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1750ms;animation-duration:25ms">906</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1775ms;animation-duration:25ms">924</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1800ms;animation-duration:25ms">943</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1825ms;animation-duration:25ms">963</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1850ms;animation-duration:25ms">982</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1875ms;animation-duration:25ms">1,001</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1900ms;animation-duration:25ms">1,020</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1925ms;animation-duration:25ms">1,040</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1950ms;animation-duration:25ms">1,059</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:1975ms;animation-duration:25ms">1,078</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2000ms;animation-duration:25ms">1,096</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2025ms;animation-duration:25ms">1,114</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2050ms;animation-duration:25ms">1,131</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2075ms;animation-duration:25ms">1,147</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2100ms;animation-duration:25ms">1,164</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2125ms;animation-duration:25ms">1,180</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2150ms;animation-duration:25ms">1,195</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2175ms;animation-duration:25ms">1,211</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2200ms;animation-duration:25ms">1,226</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2225ms;animation-duration:25ms">1,241</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2250ms;animation-duration:25ms">1,256</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2275ms;animation-duration:25ms">1,270</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2300ms;animation-duration:25ms">1,283</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2325ms;animation-duration:25ms">1,296</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2350ms;animation-duration:25ms">1,307</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2375ms;animation-duration:25ms">1,318</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2400ms;animation-duration:25ms">1,329</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2425ms;animation-duration:25ms">1,340</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2450ms;animation-duration:25ms">1,350</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2475ms;animation-duration:25ms">1,359</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2500ms;animation-duration:25ms">1,368</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2525ms;animation-duration:25ms">1,376</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2550ms;animation-duration:25ms">1,384</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2575ms;animation-duration:25ms">1,391</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2600ms;animation-duration:25ms">1,398</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2625ms;animation-duration:25ms">1,405</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2650ms;animation-duration:25ms">1,411</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2675ms;animation-duration:25ms">1,417</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2700ms;animation-duration:25ms">1,423</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2725ms;animation-duration:25ms">1,428</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2750ms;animation-duration:25ms">1,433</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2775ms;animation-duration:25ms">1,438</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2800ms;animation-duration:25ms">1,442</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2825ms;animation-duration:25ms">1,446</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2850ms;animation-duration:25ms">1,450</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2875ms;animation-duration:25ms">1,454</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2900ms;animation-duration:25ms">1,457</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2925ms;animation-duration:25ms">1,461</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2950ms;animation-duration:25ms">1,464</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:2975ms;animation-duration:25ms">1,467</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3000ms;animation-duration:25ms">1,470</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3025ms;animation-duration:25ms">1,473</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3050ms;animation-duration:25ms">1,476</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3075ms;animation-duration:25ms">1,479</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3100ms;animation-duration:25ms">1,482</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3125ms;animation-duration:25ms">1,484</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3150ms;animation-duration:25ms">1,486</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3175ms;animation-duration:25ms">1,488</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3200ms;animation-duration:25ms">1,489</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3225ms;animation-duration:25ms">1,490</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3250ms;animation-duration:25ms">1,492</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3275ms;animation-duration:50ms">1,493</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3325ms;animation-duration:25ms">1,494</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3350ms;animation-duration:50ms">1,495</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3400ms;animation-duration:50ms">1,496</text>
+<text class="n" x="260.9" y="160" text-anchor="end" style="animation-delay:3450ms;animation-duration:300ms">1,497</text>
+<text class="n nf" x="260.9" y="160" text-anchor="end" style="animation-delay:3750ms">1,498</text>
 <text class="t" x="266.9" y="160" style="font-size:12px;animation-delay:0ms">contributions in 2026</text>
 </svg>

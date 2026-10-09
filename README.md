@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f8030ae6360805efc12d7c2a" height="16" alt=""/> [Westside — Nevi](https://open.spotify.com/track/6TeQ9QmG1Y15l03sR3mAn9)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851de33c9c199cc39dc9eb9f61a" height="16" alt=""/> [next to you — JVKE](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7)
 <!--STATS:END-->
 
 </div>

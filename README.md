@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e2631ad9a89d599fa4956d10" height="16" alt=""/> [How I'd Kill — Cowboy Malfoy](https://open.spotify.com/track/564YRQLDyuV7mnJXZuGfOx)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851d35174d28aadcef2843c7d07" height="16" alt=""/> [Stevie Doesn't Wonder — Hotel Ugly](https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851de33c9c199cc39dc9eb9f61a" height="16" alt=""/> [next to you — JVKE](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e2631ad9a89d599fa4956d10" height="16" alt=""/> [How I'd Kill — Cowboy Malfoy](https://open.spotify.com/track/564YRQLDyuV7mnJXZuGfOx)
 <!--STATS:END-->
 
 </div>

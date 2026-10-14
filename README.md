@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d00004851e535b5c73e9fd35bc23dac1c" height="16" alt=""/> [MASTER/ACTION — Lucas Home](https://open.spotify.com/track/3kMuboT0w12sERco7G2RhS)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851a47c6d8a934b4833c0916cc9" height="16" alt=""/> [I Thought I Saw Your Face Today — She & Him](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO)
 <!--STATS:END-->
 
 </div>

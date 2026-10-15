@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485175711724b726950848b611ac" height="16" alt=""/> [Crave You — Flight Facilities, Giselle](https://open.spotify.com/track/4ZOigDj8pelQY3SjLByLFk)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d000048512c1f34ecc1929fb59908aad1" height="16" alt=""/> [Roommates — Malcolm Todd](https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq)
 <!--STATS:END-->
 
 </div>

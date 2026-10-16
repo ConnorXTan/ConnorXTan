@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851af3d4569bc400bda8a4dad0e" height="16" alt=""/> [LEGACY — PIXY](https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485147c800c40f339462035bd0cc" height="16" alt=""/> [the kill 2 — Lex Amarni, 2muchmotion](https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87)
 <!--STATS:END-->
 
 </div>

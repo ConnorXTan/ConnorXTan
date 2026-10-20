@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517c6ab5513acd08fd96ec8328" height="16" alt=""/> [Nightvisions — Liana Flores](https://open.spotify.com/track/2hPJoDkYIFIBMpQWh3cLAo)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e37fa30574a8964ef73efd1d" height="16" alt=""/> [give me your heart — Zach Templar](https://open.spotify.com/track/1HA9DQwoQMcrkxh4oykvTr)
 <!--STATS:END-->
 
 </div>

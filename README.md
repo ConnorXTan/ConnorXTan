@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851c4b4ad9943cf308e464f7a3c" height="16" alt=""/> [Chest Pain (I Love) — Malcolm Todd](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517c6ab5513acd08fd96ec8328" height="16" alt=""/> [Nightvisions — Liana Flores](https://open.spotify.com/track/2hPJoDkYIFIBMpQWh3cLAo)
 <!--STATS:END-->
 
 </div>

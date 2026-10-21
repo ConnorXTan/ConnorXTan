@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e2631ad9a89d599fa4956d10" height="16" alt=""/> [How I'd Kill — Cowboy Malfoy](https://open.spotify.com/track/564YRQLDyuV7mnJXZuGfOx)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517c3d9785e9b54156b12d0038" height="16" alt=""/> [Tokyo Drift — Xavier Wulf](https://open.spotify.com/track/6lPwyAupqyDCOBHUUuJJNI)
 <!--STATS:END-->
 
 </div>

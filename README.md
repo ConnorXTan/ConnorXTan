@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517c3d9785e9b54156b12d0038" height="16" alt=""/> [Tokyo Drift — Xavier Wulf](https://open.spotify.com/track/6lPwyAupqyDCOBHUUuJJNI)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851384d10f967c2b914de7e2713" height="16" alt=""/> [the perfect pair — beabadoobee](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851dc9c9f0ea65334f0c3d2a597" height="16" alt=""/> [I Think I Look Better With The Lights On — Rawen](https://open.spotify.com/track/1l1jtZofapvnGOGiuPiBeU)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b46937ad0cc3e5eca50ab1f3" height="16" alt=""/> [Distractions — Haiti Babii](https://open.spotify.com/track/1HFGwhGuWJifn9cMidCyal)
 <!--STATS:END-->
 
 </div>

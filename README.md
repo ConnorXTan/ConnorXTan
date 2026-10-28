@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851084a94988541c2402615d014" height="16" alt=""/> [Like Him (feat. Lola Young) — Tyler, The Creator, Lola Young](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851740efb32b464ad45ec12a670" height="16" alt=""/> [Stomp Stomp (with Kyle Richh, Jenn Carter, TaTa & Dee Billz) — 41, Kyle Richh, Jenn Carter, TaTa, Dee Billz](https://open.spotify.com/track/30TEsD9nJfrJSRL1RTJMDg)
 <!--STATS:END-->
 
 </div>

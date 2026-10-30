@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851a0aa309a80f90861cb573029" height="16" alt=""/> [WDYM — revided](https://open.spotify.com/track/50g0LlTWdA44YuGAAxVWeb)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517241dc083f907f8eb469b89d" height="16" alt=""/> [Lavender Town — Riovaz](https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2)
 <!--STATS:END-->
 
 </div>

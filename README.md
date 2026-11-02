@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048517f1d354acb6c23856f2ed41a" height="16" alt=""/> [EGOS — Jbpoppinz](https://open.spotify.com/track/1ZuukIOfwXLibVUbYQ73sQ)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048512c025e1e5585b4bdcd0b303f" height="16" alt=""/> [Loverboy — A-Wall](https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4)
 <!--STATS:END-->
 
 </div>

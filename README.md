@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851fa8534ce6bed4fb312b2c335" height="16" alt=""/> [WE ON GO — BIA](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485147c800c40f339462035bd0cc" height="16" alt=""/> [the kill 2 — Lex Amarni, 2muchmotion](https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87)
 <!--STATS:END-->
 
 </div>

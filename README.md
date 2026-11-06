@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485130a635de2bb0caa4e26f6abb" height="16" alt=""/> [RUNNING OUT OF TIME — Tyler, The Creator](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851fa8534ce6bed4fb312b2c335" height="16" alt=""/> [WE ON GO — BIA](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f1c781567b8ba35f5312e2cd" height="16" alt=""/> [NIGHTS LIKE THIS — The Kid LAROI](https://open.spotify.com/track/3UDpwoxz9SUvVE0e1mnsxx)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851f0c12c7831413fddf24a1c1a" height="16" alt=""/> [In Love — Aaron May](https://open.spotify.com/track/7eYvznsuCo8LS2HsGEeVXP)
 <!--STATS:END-->
 
 </div>

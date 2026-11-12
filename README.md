@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485144f4d8e99ee8335a3a0873b0" height="16" alt=""/> [Looping the Rooms — rusino, Hatsune Miku](https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ffb55e7e9036d352382d4265" height="16" alt=""/> [It's Going Down Now — Azumi Takahashi, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC](https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28)
 <!--STATS:END-->
 
 </div>

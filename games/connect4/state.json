@@ -31,7 +31,7 @@
       [
         null,
         null,
-        null,
+        "Y",
         "Y",
         "R",
         null,
@@ -56,9 +56,9 @@
         "R"
       ]
     ],
-    "turn": "Y",
-    "last_player": "PLIAN78",
-    "last_col": 3,
+    "turn": "R",
+    "last_player": "ericdashhuang",
+    "last_col": 2,
     "moves": [
       {
         "col": 4,
@@ -124,6 +124,11 @@
         "col": 4,
         "color": "R",
         "user": "PLIAN78"
+      },
+      {
+        "col": 3,
+        "color": "Y",
+        "user": "ericdashhuang"
       }
     ],
     "win_cells": []
@@ -135,5 +140,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 12
+  "seq": 13
 }

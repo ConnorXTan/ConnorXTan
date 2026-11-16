@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048516236778a208a15eb71079601" height="16" alt=""/> [There Is a Light That Never Goes Out - 2011 Remaster — The Smiths](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b46937ad0cc3e5eca50ab1f3" height="16" alt=""/> [Distractions — Haiti Babii](https://open.spotify.com/track/1HFGwhGuWJifn9cMidCyal)
 <!--STATS:END-->
 
 </div>

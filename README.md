@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485142d7d84288846bbeef6f6bc9" height="16" alt=""/> [Dark Red — Steve Lacy](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851fa8534ce6bed4fb312b2c335" height="16" alt=""/> [WE ON GO — BIA](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW)
 <!--STATS:END-->
 
 </div>

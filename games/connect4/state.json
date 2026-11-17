@@ -22,7 +22,7 @@
       [
         null,
         null,
-        null,
+        "R",
         "Y",
         null,
         null,
@@ -56,8 +56,8 @@
         "R"
       ]
     ],
-    "turn": "R",
-    "last_player": "ericdashhuang",
+    "turn": "Y",
+    "last_player": "matthewhamilton3141",
     "last_col": 2,
     "moves": [
       {
@@ -129,6 +129,11 @@
         "col": 3,
         "color": "Y",
         "user": "ericdashhuang"
+      },
+      {
+        "col": 3,
+        "color": "R",
+        "user": "matthewhamilton3141"
       }
     ],
     "win_cells": []
@@ -140,5 +145,5 @@
     "draws": 0
   },
   "last_result": null,
-  "seq": 13
+  "seq": 14
 }

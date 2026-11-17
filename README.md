@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851b46937ad0cc3e5eca50ab1f3" height="16" alt=""/> [Distractions — Haiti Babii](https://open.spotify.com/track/1HFGwhGuWJifn9cMidCyal)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485142d7d84288846bbeef6f6bc9" height="16" alt=""/> [Dark Red — Steve Lacy](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa)
 <!--STATS:END-->
 
 </div>

@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851d35174d28aadcef2843c7d07" height="16" alt=""/> [Stevie Doesn't Wonder — Hotel Ugly](https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851af3d4569bc400bda8a4dad0e" height="16" alt=""/> [LEGACY — PIXY](https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM)
 <!--STATS:END-->
 
 </div>

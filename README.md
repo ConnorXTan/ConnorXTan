@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851af3d4569bc400bda8a4dad0e" height="16" alt=""/> [LEGACY — PIXY](https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **now playing:** <img src="https://i.scdn.co/image/ab67616d0000485172b4b451c3bdda65029ad585" height="16" alt=""/> [clint eyes — ay3demi](https://open.spotify.com/track/62XO8JuGlTmOvCVeKOyids)
 <!--STATS:END-->
 
 </div>

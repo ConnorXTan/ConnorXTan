@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ae2d1664476ac993a5ad8bcc" height="16" alt=""/> [Cherry Wine — grentperez](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485135808596c96f325e68fd0913" height="16" alt=""/> [Do you? — phendste](https://open.spotify.com/track/0pEgaqA9dsWYhlYtPvZBYW)
 <!--STATS:END-->
 
 </div>

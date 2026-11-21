@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485135808596c96f325e68fd0913" height="16" alt=""/> [Do you? — phendste](https://open.spotify.com/track/0pEgaqA9dsWYhlYtPvZBYW)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485144f4d8e99ee8335a3a0873b0" height="16" alt=""/> [Looping the Rooms — rusino, Hatsune Miku](https://open.spotify.com/track/3XJCMkEWhd8xwHx6UGGa7C)
 <!--STATS:END-->
 
 </div>

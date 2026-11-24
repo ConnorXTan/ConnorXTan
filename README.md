@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851227edcd51b6622cdcbe9f43c" height="16" alt=""/> [My Ordinary Life — The Living Tombstone](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e0436c2da0c63c4b5fec22fa" height="16" alt=""/> [Jane! — The Long Faces](https://open.spotify.com/track/1VXu0l60UkpybzcyX38pzc)
 <!--STATS:END-->
 
 </div>

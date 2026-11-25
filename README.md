@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e0436c2da0c63c4b5fec22fa" height="16" alt=""/> [Jane! — The Long Faces](https://open.spotify.com/track/1VXu0l60UkpybzcyX38pzc)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048519870c9519822a973411b6594" height="16" alt=""/> [大展鴻圖(Blueprint Supreme) — 攬佬SKAI ISYOURGOD, AR刘夫阳](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz)
 <!--STATS:END-->
 
 </div>

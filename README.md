@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485160b283c86941d4d4cee115cc" height="16" alt=""/> [Dive — ziproom](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485184489499cac979e522568122" height="16" alt=""/> [She Bugging (Whatchu Gonna Do) — Mr Flintstone, Khantrast](https://open.spotify.com/track/2MsfodZkNfs3wMRwm1sOyy)
 <!--STATS:END-->
 
 </div>

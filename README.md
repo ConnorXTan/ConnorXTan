@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d0000485184489499cac979e522568122" height="16" alt=""/> [She Bugging (Whatchu Gonna Do) — Mr Flintstone, Khantrast](https://open.spotify.com/track/2MsfodZkNfs3wMRwm1sOyy)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851a4e204a2f81d4efccca14b4b" height="16" alt=""/> [american baddie — sayso](https://open.spotify.com/track/5f3VOovq4u4kA27bdiGFvz)
 <!--STATS:END-->
 
 </div>

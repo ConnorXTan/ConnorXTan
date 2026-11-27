@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851a4e204a2f81d4efccca14b4b" height="16" alt=""/> [american baddie — sayso](https://open.spotify.com/track/5f3VOovq4u4kA27bdiGFvz)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851ffb55e7e9036d352382d4265" height="16" alt=""/> [It's Going Down Now — Azumi Takahashi, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC](https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28)
 <!--STATS:END-->
 
 </div>

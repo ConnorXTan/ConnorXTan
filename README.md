@@ -5,7 +5,7 @@
 cs @ uwaterloo · toronto · [connor-tan.me](https://connor-tan.me)
 
 <!--STATS:START-->
-⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d000048515accc3841ba136dc73539690" height="16" alt=""/> [9 to 5 — Gun Boi Kaz](https://open.spotify.com/track/6EEhKhhpqXaVHsFJtPqAXC)
+⌨️ **10-word pb:** 238 wpm &nbsp;·&nbsp; 🎧 **last played:** <img src="https://i.scdn.co/image/ab67616d00004851e3c060bdd41fed06a866c494" height="16" alt=""/> [blue — yung kai](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG)
 <!--STATS:END-->
 
 </div>
